@@ -1,0 +1,65 @@
+{
+  "image_file": "TECI2y2aj3qS_0_messy.jpg",
+  "image_size": {
+    "width": 1132,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 15803,
+      "image_id": 857,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        289.28,
+        265.072398,
+        426.24
+      ],
+      "area": 112984.458924,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15804,
+      "image_id": 857,
+      "category_id": 1,
+      "bbox": [
+        90.918552,
+        724.48,
+        553.19457,
+        544.0
+      ],
+      "area": 300937.84608,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15805,
+      "image_id": 857,
+      "category_id": 1,
+      "bbox": [
+        201.045249,
+        536.32,
+        335.502262,
+        358.4
+      ],
+      "area": 120244.010701,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61116,
+      "image_id": 857,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        681.244444,
+        238.914573,
+        285.866667
+      ],
+      "area": 68297.712681,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

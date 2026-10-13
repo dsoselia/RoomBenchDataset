@@ -1,0 +1,23 @@
+{
+  "image_file": "Ah5eSBrPmCAo_0_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 667
+  },
+  "annotations": [
+    {
+      "id": 57013,
+      "image_id": 5990,
+      "category_id": 1,
+      "bbox": [
+        287.0,
+        631.0,
+        105.0,
+        36.0
+      ],
+      "area": 3780.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

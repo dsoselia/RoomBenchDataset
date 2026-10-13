@@ -1,0 +1,37 @@
+{
+  "image_file": "T6D5GsY1GRG8_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1732
+  },
+  "annotations": [
+    {
+      "id": 57675,
+      "image_id": 6082,
+      "category_id": 1,
+      "bbox": [
+        710.2556,
+        1179.6844,
+        177.0827,
+        188.5956
+      ],
+      "area": 33397.01805612,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57676,
+      "image_id": 6082,
+      "category_id": 1,
+      "bbox": [
+        825.7444,
+        1431.7867,
+        105.8646,
+        69.28
+      ],
+      "area": 7334.299488,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

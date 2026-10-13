@@ -1,0 +1,23 @@
+{
+  "image_file": "96Xv0M61e2lA_3_messy.jpg",
+  "image_size": {
+    "width": 505,
+    "height": 176
+  },
+  "annotations": [
+    {
+      "id": 3572,
+      "image_id": 179,
+      "category_id": 1,
+      "bbox": [
+        379,
+        108,
+        125,
+        68
+      ],
+      "area": 8500,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

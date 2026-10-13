@@ -1,0 +1,37 @@
+{
+  "image_file": "1MDDZAWavCUW_2_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 30979,
+      "image_id": 2056,
+      "category_id": 1,
+      "bbox": [
+        661.6601,
+        1109.3333,
+        58.3399,
+        113.7778
+      ],
+      "area": 6637.78547422,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 30980,
+      "image_id": 2056,
+      "category_id": 1,
+      "bbox": [
+        620.3953,
+        1055.2889,
+        99.6047,
+        91.0222
+      ],
+      "area": 9066.23892434,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image_file": "kq8kL2FHfivA_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1710
+  },
+  "annotations": [
+    {
+      "id": 41439,
+      "image_id": 3626,
+      "category_id": 1,
+      "bbox": [
+        195.6083,
+        1506.7,
+        387.4184,
+        203.3
+      ],
+      "area": 78762.16072,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

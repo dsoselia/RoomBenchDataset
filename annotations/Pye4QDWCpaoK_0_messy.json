@@ -1,0 +1,37 @@
+{
+  "image_file": "Pye4QDWCpaoK_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 42776,
+      "image_id": 3822,
+      "category_id": 1,
+      "bbox": [
+        493.5111,
+        604.4444,
+        69.6889,
+        302.9334
+      ],
+      "area": 21111.09541926,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42777,
+      "image_id": 3822,
+      "category_id": 1,
+      "bbox": [
+        861.8667,
+        483.5556,
+        382.5777,
+        179.2
+      ],
+      "area": 68557.92384,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

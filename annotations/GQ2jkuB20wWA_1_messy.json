@@ -1,0 +1,51 @@
+{
+  "image_file": "GQ2jkuB20wWA_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 20543,
+      "image_id": 1151,
+      "category_id": 1,
+      "bbox": [
+        529.066667,
+        401.066667,
+        382.577777,
+        254.577777
+      ],
+      "area": 97395.799998,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20544,
+      "image_id": 1151,
+      "category_id": 1,
+      "bbox": [
+        553.244444,
+        594.488889,
+        156.444445,
+        177.777778
+      ],
+      "area": 27812.345813,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20545,
+      "image_id": 1151,
+      "category_id": 1,
+      "bbox": [
+        917.333333,
+        398.222222,
+        204.8,
+        125.155556
+      ],
+      "area": 25631.857869,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

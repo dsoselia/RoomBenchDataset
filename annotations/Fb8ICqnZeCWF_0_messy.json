@@ -1,0 +1,37 @@
+{
+  "image_file": "Fb8ICqnZeCWF_0_messy.jpg",
+  "image_size": {
+    "width": 2048,
+    "height": 1024
+  },
+  "annotations": [
+    {
+      "id": 14917,
+      "image_id": 799,
+      "category_id": 1,
+      "bbox": [
+        1249,
+        479,
+        420,
+        395
+      ],
+      "area": 165900,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14918,
+      "image_id": 799,
+      "category_id": 1,
+      "bbox": [
+        1517,
+        591,
+        513.57,
+        402.86
+      ],
+      "area": 206896.81,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

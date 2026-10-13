@@ -1,0 +1,23 @@
+{
+  "image_file": "Gm9OikYsgoA6_2_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 34215,
+      "image_id": 2526,
+      "category_id": 1,
+      "bbox": [
+        913.0667,
+        135.1111,
+        366.9333,
+        321.4222
+      ],
+      "area": 117940.50853926,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

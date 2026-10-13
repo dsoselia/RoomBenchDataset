@@ -1,0 +1,121 @@
+{
+  "image_file": "chgiqjsxpyU0_0_messy.jpg",
+  "image_size": {
+    "width": 3024,
+    "height": 4032
+  },
+  "annotations": [
+    {
+      "id": 109,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        1275,
+        2700,
+        1177.5,
+        682.5
+      ],
+      "area": 803643.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 110,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        1415,
+        3255,
+        1415,
+        777
+      ],
+      "area": 1099455,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 111,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        1630,
+        3230,
+        782.5,
+        730
+      ],
+      "area": 571225,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 112,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        410,
+        2380,
+        1137.5,
+        1185
+      ],
+      "area": 1347937.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 113,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        200,
+        3435,
+        432.5,
+        445
+      ],
+      "area": 192462.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 114,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        75,
+        2060,
+        1337.5,
+        607.5
+      ],
+      "area": 812531.25,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 115,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        1665,
+        1845,
+        187.5,
+        277.5
+      ],
+      "area": 52031.25,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 116,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        1825,
+        1730,
+        117.5,
+        347.5
+      ],
+      "area": 40831.25,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

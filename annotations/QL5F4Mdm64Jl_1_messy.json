@@ -1,0 +1,79 @@
+{
+  "image_file": "QL5F4Mdm64Jl_1_messy.jpg",
+  "image_size": {
+    "width": 1413,
+    "height": 1439
+  },
+  "annotations": [
+    {
+      "id": 1253,
+      "image_id": 61,
+      "category_id": 1,
+      "bbox": [
+        208,
+        42,
+        377,
+        182
+      ],
+      "area": 68614,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1254,
+      "image_id": 61,
+      "category_id": 1,
+      "bbox": [
+        0,
+        1044,
+        342,
+        288
+      ],
+      "area": 98496,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1255,
+      "image_id": 61,
+      "category_id": 1,
+      "bbox": [
+        858,
+        1170,
+        116,
+        114
+      ],
+      "area": 13224,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1256,
+      "image_id": 61,
+      "category_id": 1,
+      "bbox": [
+        988,
+        1088,
+        115,
+        178
+      ],
+      "area": 20470,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1257,
+      "image_id": 61,
+      "category_id": 1,
+      "bbox": [
+        10,
+        14,
+        1403,
+        1425
+      ],
+      "area": 1999275,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

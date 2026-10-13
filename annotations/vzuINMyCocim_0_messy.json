@@ -1,0 +1,79 @@
+{
+  "image_file": "vzuINMyCocim_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 46345,
+      "image_id": 4344,
+      "category_id": 1,
+      "bbox": [
+        251.7333,
+        904.5333,
+        226.1334,
+        258.8445
+      ],
+      "area": 58533.3868563,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46346,
+      "image_id": 4344,
+      "category_id": 1,
+      "bbox": [
+        125.1556,
+        972.8,
+        221.8666,
+        254.5778
+      ],
+      "area": 56482.31092148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46347,
+      "image_id": 4344,
+      "category_id": 1,
+      "bbox": [
+        364.0889,
+        1095.1111,
+        250.3111,
+        184.8889
+      ],
+      "area": 46279.74393679,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46348,
+      "image_id": 4344,
+      "category_id": 1,
+      "bbox": [
+        275.9111,
+        819.2,
+        120.8889,
+        122.3111
+      ],
+      "area": 14786.05433679,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46349,
+      "image_id": 4344,
+      "category_id": 1,
+      "bbox": [
+        365.5111,
+        857.6,
+        103.8222,
+        125.1556
+      ],
+      "area": 12993.92973432,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

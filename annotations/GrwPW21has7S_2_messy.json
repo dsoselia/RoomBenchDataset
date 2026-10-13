@@ -1,0 +1,65 @@
+{
+  "image_file": "GrwPW21has7S_2_messy.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 1008
+  },
+  "annotations": [
+    {
+      "id": 12250,
+      "image_id": 674,
+      "category_id": 1,
+      "bbox": [
+        1125,
+        769,
+        487.5,
+        239
+      ],
+      "area": 116512.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12251,
+      "image_id": 674,
+      "category_id": 1,
+      "bbox": [
+        850,
+        689,
+        397.5,
+        262.5
+      ],
+      "area": 104343.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12252,
+      "image_id": 674,
+      "category_id": 1,
+      "bbox": [
+        3135,
+        794,
+        587.5,
+        214
+      ],
+      "area": 125725.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12253,
+      "image_id": 674,
+      "category_id": 1,
+      "bbox": [
+        2900,
+        29,
+        382.5,
+        375
+      ],
+      "area": 143437.5,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

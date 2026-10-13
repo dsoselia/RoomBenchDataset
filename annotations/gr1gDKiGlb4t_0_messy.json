@@ -1,0 +1,23 @@
+{
+  "image_file": "gr1gDKiGlb4t_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 36971,
+      "image_id": 2912,
+      "category_id": 1,
+      "bbox": [
+        132.2667,
+        445.1556,
+        696.8889,
+        834.8444
+      ],
+      "area": 581793.79558716,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

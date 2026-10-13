@@ -1,0 +1,51 @@
+{
+  "image_file": "zevdd2RxWhC1_2_messy.jpg",
+  "image_size": {
+    "width": 778,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 30084,
+      "image_id": 1932,
+      "category_id": 1,
+      "bbox": [
+        351.309,
+        1211.7333,
+        79.649,
+        68.2667
+      ],
+      "area": 5437.3743883,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 30085,
+      "image_id": 1932,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1100.8,
+        199.1225,
+        179.2
+      ],
+      "area": 35682.752,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 30086,
+      "image_id": 1932,
+      "category_id": 1,
+      "bbox": [
+        11.3784,
+        1043.9111,
+        58.3145,
+        93.8667
+      ],
+      "area": 5473.78967715,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

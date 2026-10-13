@@ -1,0 +1,51 @@
+{
+  "image_file": "3yMr4cACqunt_0_messy.jpg",
+  "image_size": {
+    "width": 2896,
+    "height": 1440
+  },
+  "annotations": [
+    {
+      "id": 7968,
+      "image_id": 432,
+      "category_id": 1,
+      "bbox": [
+        914,
+        158,
+        720,
+        617
+      ],
+      "area": 444240,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7969,
+      "image_id": 432,
+      "category_id": 1,
+      "bbox": [
+        458,
+        78,
+        592,
+        487
+      ],
+      "area": 288304,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7970,
+      "image_id": 432,
+      "category_id": 1,
+      "bbox": [
+        1115,
+        864,
+        655,
+        542
+      ],
+      "area": 355010,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

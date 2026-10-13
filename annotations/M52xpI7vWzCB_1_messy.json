@@ -1,0 +1,23 @@
+{
+  "image_file": "M52xpI7vWzCB_1_messy.jpg",
+  "image_size": {
+    "width": 1200,
+    "height": 900
+  },
+  "annotations": [
+    {
+      "id": 38479,
+      "image_id": 3150,
+      "category_id": 1,
+      "bbox": [
+        313.3333,
+        826.6667,
+        161.3334,
+        73.3333
+      ],
+      "area": 11831.11062222,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

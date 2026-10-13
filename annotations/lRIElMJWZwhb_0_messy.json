@@ -1,0 +1,37 @@
+{
+  "image_file": "lRIElMJWZwhb_0_messy.jpg",
+  "image_size": {
+    "width": 1023,
+    "height": 2048
+  },
+  "annotations": [
+    {
+      "id": 2681,
+      "image_id": 137,
+      "category_id": 1,
+      "bbox": [
+        123,
+        750,
+        686.25,
+        921.25
+      ],
+      "area": 632207.813,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2682,
+      "image_id": 137,
+      "category_id": 1,
+      "bbox": [
+        294.624,
+        1519.616,
+        112.53,
+        100.352
+      ],
+      "area": 11292.61056,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

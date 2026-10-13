@@ -1,0 +1,51 @@
+{
+  "image_file": "GVx4Pz4FZTBs_0_messy.jpg",
+  "image_size": {
+    "width": 1920,
+    "height": 1679
+  },
+  "annotations": [
+    {
+      "id": 13998,
+      "image_id": 759,
+      "category_id": 1,
+      "bbox": [
+        558,
+        555,
+        970,
+        890
+      ],
+      "area": 863300,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 13999,
+      "image_id": 759,
+      "category_id": 1,
+      "bbox": [
+        718,
+        935,
+        852.5,
+        607.5
+      ],
+      "area": 517893.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14000,
+      "image_id": 759,
+      "category_id": 1,
+      "bbox": [
+        48,
+        410,
+        1857.5,
+        1205
+      ],
+      "area": 2238287.5,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

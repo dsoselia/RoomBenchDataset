@@ -1,0 +1,79 @@
+{
+  "image_file": "RX0HwYEjxhnc_4_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 667
+  },
+  "annotations": [
+    {
+      "id": 55263,
+      "image_id": 5694,
+      "category_id": 1,
+      "bbox": [
+        266.0,
+        464.0,
+        86.0,
+        60.0
+      ],
+      "area": 5160.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 55264,
+      "image_id": 5694,
+      "category_id": 1,
+      "bbox": [
+        198.0,
+        507.0,
+        118.0,
+        57.0
+      ],
+      "area": 6726.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 55265,
+      "image_id": 5694,
+      "category_id": 1,
+      "bbox": [
+        249.0,
+        559.0,
+        68.0,
+        44.0
+      ],
+      "area": 2992.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 55266,
+      "image_id": 5694,
+      "category_id": 1,
+      "bbox": [
+        210.0,
+        548.0,
+        79.0,
+        39.0
+      ],
+      "area": 3081.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 55267,
+      "image_id": 5694,
+      "category_id": 1,
+      "bbox": [
+        251.0,
+        576.0,
+        61.0,
+        42.0
+      ],
+      "area": 2562.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

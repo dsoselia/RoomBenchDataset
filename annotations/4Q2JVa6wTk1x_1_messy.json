@@ -1,0 +1,23 @@
+{
+  "image_file": "4Q2JVa6wTk1x_1_messy.jpg",
+  "image_size": {
+    "width": 2080,
+    "height": 3120
+  },
+  "annotations": [
+    {
+      "id": 2515,
+      "image_id": 130,
+      "category_id": 1,
+      "bbox": [
+        690,
+        1250,
+        482.5,
+        220
+      ],
+      "area": 106150.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

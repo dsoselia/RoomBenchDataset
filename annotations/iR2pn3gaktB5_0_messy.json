@@ -1,0 +1,37 @@
+{
+  "image_file": "iR2pn3gaktB5_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 15509,
+      "image_id": 836,
+      "category_id": 1,
+      "bbox": [
+        314.88,
+        433.92,
+        215.04,
+        120.32
+      ],
+      "area": 25873.6128,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15518,
+      "image_id": 836,
+      "category_id": 1,
+      "bbox": [
+        851.2,
+        616.96,
+        161.28,
+        250.88
+      ],
+      "area": 40461.9264,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

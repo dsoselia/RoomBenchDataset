@@ -1,0 +1,65 @@
+{
+  "image_file": "lydpsA6NgRLE_1_messy.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 1008
+  },
+  "annotations": [
+    {
+      "id": 10525,
+      "image_id": 573,
+      "category_id": 1,
+      "bbox": [
+        1145,
+        77,
+        630,
+        612.5
+      ],
+      "area": 385875.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 10526,
+      "image_id": 573,
+      "category_id": 1,
+      "bbox": [
+        1810,
+        625,
+        170,
+        197.5
+      ],
+      "area": 33575.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 62498,
+      "image_id": 573,
+      "category_id": 1,
+      "bbox": [
+        1677.312,
+        4.032,
+        741.888,
+        653.184
+      ],
+      "area": 484589.371392,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 62499,
+      "image_id": 573,
+      "category_id": 1,
+      "bbox": [
+        2237.76,
+        153.216,
+        713.664,
+        197.568
+      ],
+      "area": 140997.169152,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

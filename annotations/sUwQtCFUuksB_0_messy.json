@@ -1,0 +1,121 @@
+{
+  "image_file": "sUwQtCFUuksB_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 59659,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        389.6889,
+        603.0222,
+        187.7333,
+        92.4445
+      ],
+      "area": 17354.91105185,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59660,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        463.6444,
+        868.9778,
+        192.0,
+        160.7111
+      ],
+      "area": 30856.5312,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59661,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        106.6667,
+        704.0,
+        157.8666,
+        122.3111
+      ],
+      "area": 19308.83749926,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59662,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        748.0889,
+        155.0222,
+        108.0889
+      ],
+      "area": 16756.17907358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59663,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        701.1556,
+        105.2444,
+        79.6444
+      ],
+      "area": 8382.12709136,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59664,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        850.4889,
+        686.9333,
+        51.2,
+        76.8
+      ],
+      "area": 3932.16,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59665,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        888.8889,
+        664.1778,
+        51.2,
+        54.0444
+      ],
+      "area": 2767.07328,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59666,
+      "image_id": 6404,
+      "category_id": 1,
+      "bbox": [
+        904.5333,
+        758.0444,
+        27.0223,
+        54.0445
+      ],
+      "area": 1460.40669235,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

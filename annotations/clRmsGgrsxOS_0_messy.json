@@ -1,0 +1,23 @@
+{
+  "image_file": "clRmsGgrsxOS_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 44094,
+      "image_id": 3986,
+      "category_id": 1,
+      "bbox": [
+        544.7111,
+        1196.0889,
+        182.0445,
+        83.9111
+      ],
+      "area": 15275.55424395,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "image_file": "9mBDiki612IV_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 22827,
+      "image_id": 1292,
+      "category_id": 1,
+      "bbox": [
+        347.022222,
+        509.407115,
+        223.288889,
+        160.790513
+      ],
+      "area": 35902.73501,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 22830,
+      "image_id": 1292,
+      "category_id": 1,
+      "bbox": [
+        561.777778,
+        280.316206,
+        103.822222,
+        54.071146
+      ],
+      "area": 5613.786524,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

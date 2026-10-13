@@ -1,0 +1,23 @@
+{
+  "image_file": "6KgzWZ38yEnV_0_messy.jpg",
+  "image_size": {
+    "width": 1080,
+    "height": 395
+  },
+  "annotations": [
+    {
+      "id": 3884,
+      "image_id": 194,
+      "category_id": 1,
+      "bbox": [
+        540,
+        123,
+        136.11,
+        132.22
+      ],
+      "area": 17996.464200000002,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

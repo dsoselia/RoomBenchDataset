@@ -1,0 +1,37 @@
+{
+  "image_file": "3Dwtekzx4094_2_messy.jpg",
+  "image_size": {
+    "width": 1155,
+    "height": 763
+  },
+  "annotations": [
+    {
+      "id": 5622,
+      "image_id": 299,
+      "category_id": 1,
+      "bbox": [
+        640,
+        94,
+        461.67,
+        451.67
+      ],
+      "area": 208522.48890000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5623,
+      "image_id": 299,
+      "category_id": 1,
+      "bbox": [
+        143,
+        234,
+        445,
+        291.67
+      ],
+      "area": 129793.15000000001,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

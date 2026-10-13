@@ -1,0 +1,23 @@
+{
+  "image_file": "dscPM8Xn7reB_0_messy.jpg",
+  "image_size": {
+    "width": 1080,
+    "height": 2220
+  },
+  "annotations": [
+    {
+      "id": 9427,
+      "image_id": 502,
+      "category_id": 1,
+      "bbox": [
+        432,
+        1345,
+        338.33,
+        421.67
+      ],
+      "area": 142663.611,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

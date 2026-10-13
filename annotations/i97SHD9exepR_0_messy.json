@@ -1,0 +1,51 @@
+{
+  "image_file": "i97SHD9exepR_0_messy.jpg",
+  "image_size": {
+    "width": 1920,
+    "height": 971
+  },
+  "annotations": [
+    {
+      "id": 6093,
+      "image_id": 327,
+      "category_id": 1,
+      "bbox": [
+        60,
+        472,
+        629.38,
+        493.13
+      ],
+      "area": 310366.159,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6094,
+      "image_id": 327,
+      "category_id": 1,
+      "bbox": [
+        1045,
+        486,
+        334.38,
+        232.5
+      ],
+      "area": 77743.35,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6095,
+      "image_id": 327,
+      "category_id": 1,
+      "bbox": [
+        231,
+        729,
+        212.5,
+        158.13
+      ],
+      "area": 33602.625,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

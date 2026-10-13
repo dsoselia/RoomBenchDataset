@@ -1,0 +1,79 @@
+{
+  "image_file": "GEXV4eNDUraP_1_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 50827,
+      "image_id": 5014,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        540.4444,
+        99.6047,
+        76.8
+      ],
+      "area": 7649.64096,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50828,
+      "image_id": 5014,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        558.9333,
+        220.5534,
+        96.7111
+      ],
+      "area": 21329.96192274,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50829,
+      "image_id": 5014,
+      "category_id": 1,
+      "bbox": [
+        95.336,
+        645.6889,
+        95.3359,
+        179.2
+      ],
+      "area": 17084.19328,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50830,
+      "image_id": 5014,
+      "category_id": 1,
+      "bbox": [
+        369.9605,
+        459.3778,
+        132.332,
+        46.9333
+      ],
+      "area": 6210.7774556,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50831,
+      "image_id": 5014,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        758.0444,
+        166.4822,
+        399.6445
+      ],
+      "area": 66533.6955779,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

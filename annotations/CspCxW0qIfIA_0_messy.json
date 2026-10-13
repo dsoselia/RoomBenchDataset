@@ -1,0 +1,121 @@
+{
+  "image_file": "CspCxW0qIfIA_0_messy.jpg",
+  "image_size": {
+    "width": 511,
+    "height": 1023
+  },
+  "annotations": [
+    {
+      "id": 9989,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        177,
+        380,
+        272.14,
+        198.57
+      ],
+      "area": 54038.839799999994,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9990,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        151,
+        154,
+        352.14,
+        239.29
+      ],
+      "area": 84263.5806,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9991,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        299,
+        160,
+        204.29,
+        212.86
+      ],
+      "area": 43485.1694,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9992,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        271,
+        117,
+        111.43,
+        127.86
+      ],
+      "area": 14247.4398,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9995,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        0,
+        129,
+        78.57,
+        152.86
+      ],
+      "area": 12010.2102,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9996,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        75,
+        270,
+        112.14,
+        66.43
+      ],
+      "area": 7449.4602,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9997,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        0,
+        249,
+        101.43,
+        181.43
+      ],
+      "area": 18402.444900000002,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9998,
+      "image_id": 537,
+      "category_id": 1,
+      "bbox": [
+        0,
+        224,
+        374.29,
+        473.57
+      ],
+      "area": 177252.5153,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

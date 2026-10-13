@@ -1,0 +1,51 @@
+{
+  "image_file": "Au5gWmhW4fNY_2_messy.jpg",
+  "image_size": {
+    "width": 852,
+    "height": 640
+  },
+  "annotations": [
+    {
+      "id": 31852,
+      "image_id": 2178,
+      "category_id": 1,
+      "bbox": [
+        400.0,
+        179.0,
+        172.0,
+        212.0
+      ],
+      "area": 36464.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31853,
+      "image_id": 2178,
+      "category_id": 1,
+      "bbox": [
+        510.0,
+        190.0,
+        190.0,
+        178.0
+      ],
+      "area": 33820.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31854,
+      "image_id": 2178,
+      "category_id": 1,
+      "bbox": [
+        181.0,
+        410.0,
+        152.0,
+        92.0
+      ],
+      "area": 13984.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

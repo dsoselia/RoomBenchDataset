@@ -1,0 +1,37 @@
+{
+  "image_file": "OabcrLrHNMGh_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 41666,
+      "image_id": 3664,
+      "category_id": 1,
+      "bbox": [
+        166.4,
+        349.8667,
+        179.2,
+        214.4
+      ],
+      "area": 38420.48,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 41667,
+      "image_id": 3664,
+      "category_id": 1,
+      "bbox": [
+        206.9333,
+        588.8,
+        182.4,
+        91.7333
+      ],
+      "area": 16732.15392,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "image_file": "XyItIbSP1XH4_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 50143,
+      "image_id": 4906,
+      "category_id": 1,
+      "bbox": [
+        755.2,
+        524.8,
+        135.1111,
+        93.8667
+      ],
+      "area": 12682.43309037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50144,
+      "image_id": 4906,
+      "category_id": 1,
+      "bbox": [
+        814.9333,
+        516.2667,
+        91.0223,
+        52.6222
+      ],
+      "area": 4789.79367506,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50145,
+      "image_id": 4906,
+      "category_id": 1,
+      "bbox": [
+        800.7111,
+        571.7333,
+        213.3333,
+        79.6445
+      ],
+      "area": 16990.82401185,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50146,
+      "image_id": 4906,
+      "category_id": 1,
+      "bbox": [
+        999.8222,
+        519.1111,
+        136.5334,
+        126.5778
+      ],
+      "area": 17282.09739852,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 50147,
+      "image_id": 4906,
+      "category_id": 1,
+      "bbox": [
+        917.3333,
+        548.9778,
+        98.1334,
+        62.5778
+      ],
+      "area": 6140.97227852,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

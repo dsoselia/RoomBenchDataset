@@ -1,0 +1,23 @@
+{
+  "image_file": "YoVDNW34Vvh6_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 16744,
+      "image_id": 914,
+      "category_id": 1,
+      "bbox": [
+        121.6,
+        388.8,
+        54.4,
+        70.4
+      ],
+      "area": 3829.76,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

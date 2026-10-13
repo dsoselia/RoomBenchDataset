@@ -1,0 +1,121 @@
+{
+  "image_file": "GOvAPS60ayPk_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 19149,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        639.0,
+        238.0,
+        76.0,
+        187.0
+      ],
+      "area": 14212.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 19152,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        694.044444,
+        392.533333,
+        580.266667,
+        270.222223
+      ],
+      "area": 156800.94869,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 19153,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        318.0,
+        576.0,
+        281.0,
+        179.0
+      ],
+      "area": 50299.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 19156,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        594.0,
+        509.0,
+        124.0,
+        157.0
+      ],
+      "area": 19468.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 19160,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        302.0,
+        597.0,
+        23.0,
+        88.0
+      ],
+      "area": 2024.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 19161,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        383.0,
+        899.0,
+        66.0,
+        37.0
+      ],
+      "area": 2442.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61308,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        702.577778,
+        412.444444,
+        365.511111,
+        193.422223
+      ],
+      "area": 70697.971621,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61309,
+      "image_id": 1055,
+      "category_id": 1,
+      "bbox": [
+        438.044444,
+        583.111111,
+        71.111112,
+        125.155556
+      ],
+      "area": 8899.95076,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

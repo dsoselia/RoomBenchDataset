@@ -1,0 +1,65 @@
+{
+  "image_file": "7KuK2otvTelr_2_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 56040,
+      "image_id": 5820,
+      "category_id": 1,
+      "bbox": [
+        942.9333,
+        175.0198,
+        231.8223,
+        132.332
+      ],
+      "area": 30677.5086036,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56041,
+      "image_id": 5820,
+      "category_id": 1,
+      "bbox": [
+        940.0889,
+        277.4704,
+        216.1778,
+        66.8774
+      ],
+      "area": 14457.40920172,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56042,
+      "image_id": 5820,
+      "category_id": 1,
+      "bbox": [
+        877.5111,
+        169.3281,
+        65.4222,
+        140.8695
+      ],
+      "area": 9215.9926029,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56043,
+      "image_id": 5820,
+      "category_id": 1,
+      "bbox": [
+        739.5556,
+        268.9328,
+        81.0666,
+        51.2253
+      ],
+      "area": 4152.66090498,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

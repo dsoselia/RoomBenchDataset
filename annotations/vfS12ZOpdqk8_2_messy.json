@@ -1,0 +1,23 @@
+{
+  "image_file": "vfS12ZOpdqk8_2_messy.jpg",
+  "image_size": {
+    "width": 627,
+    "height": 313
+  },
+  "annotations": [
+    {
+      "id": 6719,
+      "image_id": 362,
+      "category_id": 1,
+      "bbox": [
+        264,
+        147,
+        201.88,
+        148.13
+      ],
+      "area": 29904.484399999998,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

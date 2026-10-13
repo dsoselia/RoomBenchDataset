@@ -1,0 +1,65 @@
+{
+  "image_file": "CTOxNXXscw1l_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 16631,
+      "image_id": 907,
+      "category_id": 1,
+      "bbox": [
+        614.4,
+        385.28,
+        613.12,
+        574.72
+      ],
+      "area": 352372.3264,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16632,
+      "image_id": 907,
+      "category_id": 1,
+      "bbox": [
+        865.28,
+        686.08,
+        143.36,
+        65.28
+      ],
+      "area": 9358.5408,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16633,
+      "image_id": 907,
+      "category_id": 1,
+      "bbox": [
+        980.48,
+        197.12,
+        203.52,
+        130.56
+      ],
+      "area": 26571.5712,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 62124,
+      "image_id": 907,
+      "category_id": 1,
+      "bbox": [
+        335.36,
+        686.08,
+        225.28,
+        273.92
+      ],
+      "area": 61708.6976,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

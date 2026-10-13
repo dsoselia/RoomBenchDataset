@@ -1,0 +1,121 @@
+{
+  "image_file": "rADVCb5N63Ry_1_messy.jpg",
+  "image_size": {
+    "width": 3024,
+    "height": 4032
+  },
+  "annotations": [
+    {
+      "id": 14582,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        950,
+        1650,
+        1785,
+        2155
+      ],
+      "area": 3846675,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14583,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        1330,
+        3645,
+        805,
+        387
+      ],
+      "area": 311535,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14584,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        1125,
+        1835,
+        467.5,
+        415
+      ],
+      "area": 194012.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14585,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        2180,
+        1365,
+        540,
+        325
+      ],
+      "area": 175500,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14586,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        900,
+        3495,
+        280,
+        260
+      ],
+      "area": 72800,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14587,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        1140,
+        3485,
+        270,
+        250
+      ],
+      "area": 67500,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14588,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        875,
+        3910,
+        257.5,
+        122
+      ],
+      "area": 31415,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14589,
+      "image_id": 788,
+      "category_id": 1,
+      "bbox": [
+        1135,
+        3230,
+        340,
+        352.5
+      ],
+      "area": 119850,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

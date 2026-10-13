@@ -1,0 +1,79 @@
+{
+  "image_file": "z12KmPivUjOK_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 56154,
+      "image_id": 5844,
+      "category_id": 1,
+      "bbox": [
+        113.7778,
+        432.3556,
+        44.0889,
+        46.9333
+      ],
+      "area": 2069.23757037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56155,
+      "image_id": 5844,
+      "category_id": 1,
+      "bbox": [
+        105.2444,
+        403.9111,
+        59.7334,
+        48.3556
+      ],
+      "area": 2888.44439704,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56156,
+      "image_id": 5844,
+      "category_id": 1,
+      "bbox": [
+        159.2889,
+        388.2667,
+        42.6667,
+        82.4889
+      ],
+      "area": 3519.52914963,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56157,
+      "image_id": 5844,
+      "category_id": 1,
+      "bbox": [
+        187.7333,
+        371.2,
+        34.1334,
+        85.3333
+      ],
+      "area": 2912.71566222,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56158,
+      "image_id": 5844,
+      "category_id": 1,
+      "bbox": [
+        157.8667,
+        366.9333,
+        32.7111,
+        39.8223
+      ],
+      "area": 1302.63123753,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

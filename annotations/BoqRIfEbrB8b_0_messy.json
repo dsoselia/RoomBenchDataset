@@ -1,0 +1,79 @@
+{
+  "image_file": "BoqRIfEbrB8b_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 59360,
+      "image_id": 6348,
+      "category_id": 1,
+      "bbox": [
+        189.1556,
+        305.9289,
+        112.3555,
+        91.0671
+      ],
+      "area": 10231.88955405,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59361,
+      "image_id": 6348,
+      "category_id": 1,
+      "bbox": [
+        977.0667,
+        352.8854,
+        187.7333,
+        119.5257
+      ],
+      "area": 22438.95409581,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59362,
+      "image_id": 6348,
+      "category_id": 1,
+      "bbox": [
+        1088.0,
+        418.3399,
+        186.3111,
+        169.3281
+      ],
+      "area": 31547.70457191,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59363,
+      "image_id": 6348,
+      "category_id": 1,
+      "bbox": [
+        1.4222,
+        345.7708,
+        258.8445,
+        149.4071
+      ],
+      "area": 38673.20609595,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59364,
+      "image_id": 6348,
+      "category_id": 1,
+      "bbox": [
+        563.2,
+        325.8498,
+        81.0667,
+        36.996
+      ],
+      "area": 2999.1436332,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

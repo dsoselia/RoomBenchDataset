@@ -1,0 +1,65 @@
+{
+  "image_file": "lT24lpSpoUVB_1_messy.jpg",
+  "image_size": {
+    "width": 544,
+    "height": 189
+  },
+  "annotations": [
+    {
+      "id": 5700,
+      "image_id": 303,
+      "category_id": 1,
+      "bbox": [
+        332,
+        37,
+        55,
+        52.31
+      ],
+      "area": 2877.05,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5701,
+      "image_id": 303,
+      "category_id": 1,
+      "bbox": [
+        212,
+        33,
+        27.31,
+        28.85
+      ],
+      "area": 787.8935,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5702,
+      "image_id": 303,
+      "category_id": 1,
+      "bbox": [
+        263,
+        18,
+        27.31,
+        35.77
+      ],
+      "area": 976.8787000000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5703,
+      "image_id": 303,
+      "category_id": 1,
+      "bbox": [
+        417,
+        114,
+        27.69,
+        43.08
+      ],
+      "area": 1192.8852,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

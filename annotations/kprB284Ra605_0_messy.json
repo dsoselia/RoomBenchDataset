@@ -1,0 +1,79 @@
+{
+  "image_file": "kprB284Ra605_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 40311,
+      "image_id": 3468,
+      "category_id": 1,
+      "bbox": [
+        179.2,
+        981.3333,
+        339.9111,
+        298.6667
+      ],
+      "area": 101520.12653037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40312,
+      "image_id": 3468,
+      "category_id": 1,
+      "bbox": [
+        473.6,
+        961.4222,
+        68.2667,
+        250.3111
+      ],
+      "area": 17087.91277037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40313,
+      "image_id": 3468,
+      "category_id": 1,
+      "bbox": [
+        425.2444,
+        977.0667,
+        59.7334,
+        163.5555
+      ],
+      "area": 9769.7261037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40314,
+      "image_id": 3468,
+      "category_id": 1,
+      "bbox": [
+        824.8889,
+        823.4667,
+        83.9111,
+        27.0222
+      ],
+      "area": 2267.46252642,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40315,
+      "image_id": 3468,
+      "category_id": 1,
+      "bbox": [
+        873.2444,
+        766.5778,
+        34.1334,
+        66.8444
+      ],
+      "area": 2281.62664296,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

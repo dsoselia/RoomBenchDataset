@@ -1,0 +1,37 @@
+{
+  "image_file": "ftCAlZ7kwrcF_2_messy.jpg",
+  "image_size": {
+    "width": 629,
+    "height": 280
+  },
+  "annotations": [
+    {
+      "id": 1867,
+      "image_id": 98,
+      "category_id": 1,
+      "bbox": [
+        133,
+        136,
+        82.22,
+        97.22
+      ],
+      "area": 7993.4284,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1868,
+      "image_id": 98,
+      "category_id": 1,
+      "bbox": [
+        157,
+        135,
+        45.56,
+        101.11
+      ],
+      "area": 4606.5716,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

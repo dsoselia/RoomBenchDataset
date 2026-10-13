@@ -1,0 +1,23 @@
+{
+  "image_file": "V8L2G6iEoprj_0_messy.jpg",
+  "image_size": {
+    "width": 2048,
+    "height": 2048
+  },
+  "annotations": [
+    {
+      "id": 11094,
+      "image_id": 607,
+      "category_id": 1,
+      "bbox": [
+        1103,
+        418,
+        922.5,
+        1143.75
+      ],
+      "area": 1055109.375,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

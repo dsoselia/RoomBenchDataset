@@ -1,0 +1,93 @@
+{
+  "image_file": "FGOJgAcAyCjr_1_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 45841,
+      "image_id": 4254,
+      "category_id": 1,
+      "bbox": [
+        409.8024,
+        723.9111,
+        189.249,
+        118.0445
+      ],
+      "area": 22339.8035805,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45842,
+      "image_id": 4254,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        995.5556,
+        243.3202,
+        123.7333
+      ],
+      "area": 30106.81130266,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45843,
+      "image_id": 4254,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1072.3556,
+        99.6047,
+        207.6444
+      ],
+      "area": 20682.35816868,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45844,
+      "image_id": 4254,
+      "category_id": 1,
+      "bbox": [
+        68.3004,
+        1088.0,
+        186.4032,
+        192.0
+      ],
+      "area": 35789.4144,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45845,
+      "image_id": 4254,
+      "category_id": 1,
+      "bbox": [
+        212.0158,
+        1072.3556,
+        180.7115,
+        207.6444
+      ],
+      "area": 37523.7309906,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45846,
+      "image_id": 4254,
+      "category_id": 1,
+      "bbox": [
+        415.4941,
+        1122.1333,
+        112.411,
+        133.6889
+      ],
+      "area": 15028.1029379,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

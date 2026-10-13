@@ -1,0 +1,23 @@
+{
+  "image_file": "jg4aDKpB1FQh_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 40523,
+      "image_id": 3506,
+      "category_id": 1,
+      "bbox": [
+        504.8889,
+        816.3556,
+        329.9555,
+        143.6444
+      ],
+      "area": 47396.2598242,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

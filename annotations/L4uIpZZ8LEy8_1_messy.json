@@ -1,0 +1,37 @@
+{
+  "image_file": "L4uIpZZ8LEy8_1_messy.jpg",
+  "image_size": {
+    "width": 576,
+    "height": 768
+  },
+  "annotations": [
+    {
+      "id": 32511,
+      "image_id": 2282,
+      "category_id": 1,
+      "bbox": [
+        24.0,
+        231.0,
+        319.0,
+        109.0
+      ],
+      "area": 34771.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 32512,
+      "image_id": 2282,
+      "category_id": 1,
+      "bbox": [
+        410.0,
+        225.0,
+        132.0,
+        79.0
+      ],
+      "area": 10428.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

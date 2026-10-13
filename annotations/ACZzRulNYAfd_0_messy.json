@@ -1,0 +1,79 @@
+{
+  "image_file": "ACZzRulNYAfd_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 38433,
+      "image_id": 3140,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        493.5111,
+        312.8889,
+        201.9556
+      ],
+      "area": 63189.66553284,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38434,
+      "image_id": 3140,
+      "category_id": 1,
+      "bbox": [
+        49.7778,
+        384.0,
+        200.5333,
+        109.5111
+      ],
+      "area": 21960.62226963,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38435,
+      "image_id": 3140,
+      "category_id": 1,
+      "bbox": [
+        726.7556,
+        465.0667,
+        98.1333,
+        108.0889
+      ],
+      "area": 10607.12045037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38436,
+      "image_id": 3140,
+      "category_id": 1,
+      "bbox": [
+        957.1556,
+        548.9778,
+        257.4222,
+        159.2889
+      ],
+      "area": 41004.49907358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38437,
+      "image_id": 3140,
+      "category_id": 1,
+      "bbox": [
+        223.2889,
+        502.0444,
+        105.2444,
+        71.1112
+      ],
+      "area": 7484.05557728,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

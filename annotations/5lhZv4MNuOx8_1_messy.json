@@ -1,0 +1,23 @@
+{
+  "image_file": "5lhZv4MNuOx8_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 38989,
+      "image_id": 3250,
+      "category_id": 1,
+      "bbox": [
+        823.4667,
+        743.8222,
+        147.9111,
+        216.1778
+      ],
+      "area": 31975.09619358,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

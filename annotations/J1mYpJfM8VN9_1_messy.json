@@ -1,0 +1,23 @@
+{
+  "image_file": "J1mYpJfM8VN9_1_messy.jpg",
+  "image_size": {
+    "width": 1080,
+    "height": 771
+  },
+  "annotations": [
+    {
+      "id": 1715,
+      "image_id": 90,
+      "category_id": 1,
+      "bbox": [
+        93,
+        405,
+        83.33,
+        161.67
+      ],
+      "area": 13471.961099999999,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "image_file": "FY1Zc03SW85s_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 34022,
+      "image_id": 2490,
+      "category_id": 1,
+      "bbox": [
+        430.4593,
+        1086.79,
+        360.2963,
+        312.95
+      ],
+      "area": 112754.727085,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34023,
+      "image_id": 2490,
+      "category_id": 1,
+      "bbox": [
+        479.763,
+        1115.24,
+        187.7333,
+        202.9433
+      ],
+      "area": 38099.21542189,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34024,
+      "image_id": 2490,
+      "category_id": 1,
+      "bbox": [
+        477.8667,
+        1065.9267,
+        130.8444,
+        72.0733
+      ],
+      "area": 9430.38769452,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

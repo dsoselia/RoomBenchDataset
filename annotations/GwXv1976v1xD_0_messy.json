@@ -1,0 +1,65 @@
+{
+  "image_file": "GwXv1976v1xD_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 38530,
+      "image_id": 3162,
+      "category_id": 1,
+      "bbox": [
+        384.0,
+        758.0444,
+        73.9556,
+        72.5334
+      ],
+      "area": 5364.25111704,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38531,
+      "image_id": 3162,
+      "category_id": 1,
+      "bbox": [
+        557.5111,
+        745.2444,
+        52.6222,
+        64.0
+      ],
+      "area": 3367.8208,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38532,
+      "image_id": 3162,
+      "category_id": 1,
+      "bbox": [
+        339.9111,
+        1149.1556,
+        51.2,
+        59.7333
+      ],
+      "area": 3058.34496,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38533,
+      "image_id": 3162,
+      "category_id": 1,
+      "bbox": [
+        412.4444,
+        611.5556,
+        125.1556,
+        72.5333
+      ],
+      "area": 9077.94868148,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

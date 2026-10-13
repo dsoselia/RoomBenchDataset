@@ -1,0 +1,37 @@
+{
+  "image_file": "DjkiJqk2ZBZi_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 28452,
+      "image_id": 1674,
+      "category_id": 1,
+      "bbox": [
+        566.0444,
+        303.083,
+        92.4445,
+        36.9961
+      ],
+      "area": 3420.08596645,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 28453,
+      "image_id": 1674,
+      "category_id": 1,
+      "bbox": [
+        947.2,
+        362.8458,
+        128.0,
+        83.9526
+      ],
+      "area": 10745.9328,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

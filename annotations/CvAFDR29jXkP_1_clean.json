@@ -1,0 +1,23 @@
+{
+  "image_file": "CvAFDR29jXkP_1_clean.jpg",
+  "image_size": {
+    "width": 1134,
+    "height": 850
+  },
+  "annotations": [
+    {
+      "id": 13351,
+      "image_id": 730,
+      "category_id": 1,
+      "bbox": [
+        589,
+        370,
+        65,
+        74.38
+      ],
+      "area": 4834.7,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

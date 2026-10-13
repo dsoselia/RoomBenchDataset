@@ -1,0 +1,51 @@
+{
+  "image_file": "OasHlAbK1v72_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 488
+  },
+  "annotations": [
+    {
+      "id": 48892,
+      "image_id": 4728,
+      "category_id": 1,
+      "bbox": [
+        645.6889,
+        364.2216,
+        145.0667,
+        99.5918
+      ],
+      "area": 14447.45377306,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48893,
+      "image_id": 4728,
+      "category_id": 1,
+      "bbox": [
+        688.3556,
+        301.621,
+        118.0444,
+        112.3965
+      ],
+      "area": 13267.7774046,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48894,
+      "image_id": 4728,
+      "category_id": 1,
+      "bbox": [
+        725.3333,
+        257.516,
+        24.1778,
+        55.4869
+      ],
+      "area": 1341.55117082,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

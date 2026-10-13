@@ -1,0 +1,79 @@
+{
+  "image_file": "07sFs5aut5gz_2_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 39556,
+      "image_id": 3340,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        645.6889,
+        92.4444,
+        192.0
+      ],
+      "area": 17749.3248,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39557,
+      "image_id": 3340,
+      "category_id": 1,
+      "bbox": [
+        98.1333,
+        641.4222,
+        265.9556,
+        160.7111
+      ],
+      "area": 42742.01702716,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39558,
+      "image_id": 3340,
+      "category_id": 1,
+      "bbox": [
+        278.7556,
+        580.2667,
+        89.6,
+        103.8222
+      ],
+      "area": 9302.46912,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39559,
+      "image_id": 3340,
+      "category_id": 1,
+      "bbox": [
+        209.0667,
+        824.8889,
+        122.3111,
+        95.2889
+      ],
+      "area": 11654.89017679,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39560,
+      "image_id": 3340,
+      "category_id": 1,
+      "bbox": [
+        365.5111,
+        705.4222,
+        93.8667,
+        56.8889
+      ],
+      "area": 5339.97330963,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

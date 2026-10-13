@@ -1,0 +1,79 @@
+{
+  "image_file": "gH51t70pL6Ix_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 54622,
+      "image_id": 5582,
+      "category_id": 1,
+      "bbox": [
+        347.0222,
+        450.8444,
+        143.6445,
+        39.8223
+      ],
+      "area": 5720.25437235,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54623,
+      "image_id": 5582,
+      "category_id": 1,
+      "bbox": [
+        347.0222,
+        436.6222,
+        139.3778,
+        34.1334
+      ],
+      "area": 4757.43819852,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54624,
+      "image_id": 5582,
+      "category_id": 1,
+      "bbox": [
+        729.6,
+        403.9111,
+        237.5111,
+        86.7556
+      ],
+      "area": 20605.41798716,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54625,
+      "image_id": 5582,
+      "category_id": 1,
+      "bbox": [
+        82.4889,
+        819.2,
+        112.3555,
+        54.0444
+      ],
+      "area": 6072.1855842,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54626,
+      "image_id": 5582,
+      "category_id": 1,
+      "bbox": [
+        81.0667,
+        844.8,
+        112.3555,
+        54.0444
+      ],
+      "area": 6072.1855842,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

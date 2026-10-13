@@ -1,0 +1,51 @@
+{
+  "image_file": "GD9pt2tVlpmA_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 27078,
+      "image_id": 1557,
+      "category_id": 1,
+      "bbox": [
+        386.844444,
+        547.555556,
+        132.266667,
+        132.266666
+      ],
+      "area": 17494.471067,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 27079,
+      "image_id": 1557,
+      "category_id": 1,
+      "bbox": [
+        658.488889,
+        695.466667,
+        187.733333,
+        170.666666
+      ],
+      "area": 32039.82204,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61826,
+      "image_id": 1557,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        314.311111,
+        169.244444,
+        192.0
+      ],
+      "area": 32494.933248,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

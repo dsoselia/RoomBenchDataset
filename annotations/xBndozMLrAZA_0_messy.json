@@ -1,0 +1,23 @@
+{
+  "image_file": "xBndozMLrAZA_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 15270,
+      "image_id": 819,
+      "category_id": 1,
+      "bbox": [
+        275.2,
+        572.16,
+        101.12,
+        142.08
+      ],
+      "area": 14367.1296,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

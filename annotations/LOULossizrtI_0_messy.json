@@ -1,0 +1,65 @@
+{
+  "image_file": "LOULossizrtI_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 60880,
+      "image_id": 6582,
+      "category_id": 1,
+      "bbox": [
+        404.2667,
+        521.6,
+        188.8,
+        94.9333
+      ],
+      "area": 17923.40704,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 60881,
+      "image_id": 6582,
+      "category_id": 1,
+      "bbox": [
+        377.6,
+        622.9333,
+        57.6,
+        40.5334
+      ],
+      "area": 2334.72384,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 60882,
+      "image_id": 6582,
+      "category_id": 1,
+      "bbox": [
+        552.5333,
+        584.5333,
+        124.8,
+        60.8
+      ],
+      "area": 7587.84,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 60883,
+      "image_id": 6582,
+      "category_id": 1,
+      "bbox": [
+        349.8667,
+        551.4667,
+        74.6666,
+        40.5333
+      ],
+      "area": 3026.48369778,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

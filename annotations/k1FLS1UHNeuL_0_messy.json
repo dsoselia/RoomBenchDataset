@@ -1,0 +1,79 @@
+{
+  "image_file": "k1FLS1UHNeuL_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 25266,
+      "image_id": 1443,
+      "category_id": 1,
+      "bbox": [
+        115.2,
+        786.488889,
+        194.844444,
+        112.355555
+      ],
+      "area": 21891.855644,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 25267,
+      "image_id": 1443,
+      "category_id": 1,
+      "bbox": [
+        102.4,
+        679.822222,
+        213.333333,
+        145.066667
+      ],
+      "area": 30947.555578,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 25268,
+      "image_id": 1443,
+      "category_id": 1,
+      "bbox": [
+        284.444444,
+        672.711111,
+        159.288889,
+        132.266667
+      ],
+      "area": 21068.610438,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 25269,
+      "image_id": 1443,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        641.422222,
+        95.288889,
+        238.933334
+      ],
+      "area": 22767.691942,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61744,
+      "image_id": 1443,
+      "category_id": 1,
+      "bbox": [
+        233.244444,
+        170.666667,
+        93.866667,
+        82.488889
+      ],
+      "area": 7742.957075,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

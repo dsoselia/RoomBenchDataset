@@ -1,0 +1,121 @@
+{
+  "image_file": "hlX8W1ghQIbZ_0_messy.jpg",
+  "image_size": {
+    "width": 640,
+    "height": 852
+  },
+  "annotations": [
+    {
+      "id": 46306,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        444.0,
+        239.0,
+        291.0
+      ],
+      "area": 69549.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46307,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        57.0,
+        350.0,
+        179.0,
+        156.0
+      ],
+      "area": 27924.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46308,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        176.0,
+        331.0,
+        464.0,
+        496.0
+      ],
+      "area": 230144.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46309,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        296.0,
+        369.0,
+        176.0,
+        221.0
+      ],
+      "area": 38896.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46310,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        179.0,
+        261.0,
+        79.0,
+        109.0
+      ],
+      "area": 8611.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46311,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        540.0,
+        369.0,
+        100.0,
+        99.0
+      ],
+      "area": 9900.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46312,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        570.0,
+        424.0,
+        70.0,
+        90.0
+      ],
+      "area": 6300.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46313,
+      "image_id": 4334,
+      "category_id": 1,
+      "bbox": [
+        573.0,
+        500.0,
+        57.0,
+        55.0
+      ],
+      "area": 3135.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "image_file": "lAOetVRcJemb_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 47138,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        132.2667,
+        364.0889,
+        416.7111,
+        287.2889
+      ],
+      "area": 119716.47353679,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47139,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        401.0667,
+        335.6444,
+        187.7333,
+        125.1556
+      ],
+      "area": 23495.87380148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47140,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        497.7778,
+        443.7333,
+        106.6666,
+        227.5556
+      ],
+      "area": 24272.58216296,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47141,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        92.4444,
+        630.0444,
+        325.6889,
+        248.8889
+      ],
+      "area": 81060.35206321,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47142,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        426.6667,
+        664.1778,
+        186.3111,
+        99.5555
+      ],
+      "area": 18548.29471605,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47143,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        283.0222,
+        652.8,
+        105.2445,
+        152.1778
+      ],
+      "area": 16015.8764721,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47144,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        81.0667,
+        566.0444,
+        268.8,
+        167.8223
+      ],
+      "area": 45110.63424,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47145,
+      "image_id": 4462,
+      "category_id": 1,
+      "bbox": [
+        1070.9333,
+        659.9111,
+        112.3556,
+        137.9556
+      ],
+      "area": 15500.08421136,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

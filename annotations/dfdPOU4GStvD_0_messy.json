@@ -1,0 +1,65 @@
+{
+  "image_file": "dfdPOU4GStvD_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 42105,
+      "image_id": 3718,
+      "category_id": 1,
+      "bbox": [
+        637.1556,
+        388.2667,
+        201.9555,
+        76.8
+      ],
+      "area": 15510.1824,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42106,
+      "image_id": 3718,
+      "category_id": 1,
+      "bbox": [
+        903.1111,
+        310.0444,
+        140.8,
+        157.8667
+      ],
+      "area": 22227.63136,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42107,
+      "image_id": 3718,
+      "category_id": 1,
+      "bbox": [
+        962.8444,
+        234.6667,
+        110.9334,
+        65.4222
+      ],
+      "area": 7257.50708148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42108,
+      "image_id": 3718,
+      "category_id": 1,
+      "bbox": [
+        728.1778,
+        244.6222,
+        100.9778,
+        102.4
+      ],
+      "area": 10340.12672,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

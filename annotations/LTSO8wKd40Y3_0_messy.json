@@ -1,0 +1,23 @@
+{
+  "image_file": "LTSO8wKd40Y3_0_messy.jpg",
+  "image_size": {
+    "width": 1225,
+    "height": 919
+  },
+  "annotations": [
+    {
+      "id": 18210,
+      "image_id": 1002,
+      "category_id": 1,
+      "bbox": [
+        72.0,
+        478.0,
+        154.0,
+        186.0
+      ],
+      "area": 28644.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

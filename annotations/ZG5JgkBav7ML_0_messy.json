@@ -1,0 +1,37 @@
+{
+  "image_file": "ZG5JgkBav7ML_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 46678,
+      "image_id": 4400,
+      "category_id": 1,
+      "bbox": [
+        334.3874,
+        864.7111,
+        85.3754,
+        62.5778
+      ],
+      "area": 5342.60470612,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46679,
+      "image_id": 4400,
+      "category_id": 1,
+      "bbox": [
+        643.1621,
+        819.2,
+        76.8379,
+        66.8444
+      ],
+      "area": 5136.18332276,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

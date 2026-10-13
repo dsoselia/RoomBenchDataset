@@ -1,0 +1,51 @@
+{
+  "image_file": "VVCsZLeosqfU_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 51830,
+      "image_id": 5164,
+      "category_id": 1,
+      "bbox": [
+        223.763,
+        900.9167,
+        151.7037,
+        269.3266
+      ],
+      "area": 40857.84172842,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 51831,
+      "image_id": 5164,
+      "category_id": 1,
+      "bbox": [
+        377.363,
+        889.5367,
+        96.7111,
+        100.5233
+      ],
+      "area": 9721.71891863,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 51832,
+      "image_id": 5164,
+      "category_id": 1,
+      "bbox": [
+        834.3704,
+        595.5533,
+        276.8592,
+        170.7
+      ],
+      "area": 47259.86544,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

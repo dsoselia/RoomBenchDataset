@@ -1,0 +1,23 @@
+{
+  "image_file": "es0rfndPbM2L_2_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 40310,
+      "image_id": 3466,
+      "category_id": 1,
+      "bbox": [
+        38.419,
+        847.6444,
+        193.5178,
+        116.6223
+      ],
+      "area": 22568.49092694,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

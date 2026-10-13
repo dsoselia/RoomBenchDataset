@@ -1,0 +1,23 @@
+{
+  "image_file": "DrSZCSwv7Zhd_2_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 58559,
+      "image_id": 6214,
+      "category_id": 1,
+      "bbox": [
+        249.0119,
+        612.9778,
+        224.8221,
+        226.1333
+      ],
+      "area": 50839.76338593,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

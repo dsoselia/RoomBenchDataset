@@ -1,0 +1,79 @@
+{
+  "image_file": "BXGdVutgemkc_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 32736,
+      "image_id": 2316,
+      "category_id": 1,
+      "bbox": [
+        205.8667,
+        330.6667,
+        118.4,
+        71.4666
+      ],
+      "area": 8461.64544,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 32737,
+      "image_id": 2316,
+      "category_id": 1,
+      "bbox": [
+        331.7333,
+        177.0667,
+        99.2,
+        201.6
+      ],
+      "area": 19998.72,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 32738,
+      "image_id": 2316,
+      "category_id": 1,
+      "bbox": [
+        419.2,
+        297.6,
+        96.0,
+        66.1333
+      ],
+      "area": 6348.7968,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 32739,
+      "image_id": 2316,
+      "category_id": 1,
+      "bbox": [
+        480.0,
+        457.6,
+        122.6667,
+        116.2667
+      ],
+      "area": 14262.05240889,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 32740,
+      "image_id": 2316,
+      "category_id": 1,
+      "bbox": [
+        627.2,
+        557.8667,
+        92.8,
+        122.6666
+      ],
+      "area": 11383.46048,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "image_file": "SRLJO2aBtHpW_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 23382,
+      "image_id": 1335,
+      "category_id": 1,
+      "bbox": [
+        543.288889,
+        425.244444,
+        248.888889,
+        162.133334
+      ],
+      "area": 40353.185369,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 23383,
+      "image_id": 1335,
+      "category_id": 1,
+      "bbox": [
+        597.333333,
+        388.266667,
+        142.222223,
+        62.577777
+      ],
+      "area": 8899.950555,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

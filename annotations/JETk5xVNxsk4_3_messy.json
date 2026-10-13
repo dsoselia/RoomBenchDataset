@@ -1,0 +1,37 @@
+{
+  "image_file": "JETk5xVNxsk4_3_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 58216,
+      "image_id": 6162,
+      "category_id": 1,
+      "bbox": [
+        555.6148,
+        779.53,
+        92.9185,
+        102.42
+      ],
+      "area": 9516.71277,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 58217,
+      "image_id": 6162,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1107.6533,
+        191.5259,
+        125.18
+      ],
+      "area": 23975.212162,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

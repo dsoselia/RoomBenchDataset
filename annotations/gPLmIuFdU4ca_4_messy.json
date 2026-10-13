@@ -1,0 +1,23 @@
+{
+  "image_file": "gPLmIuFdU4ca_4_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 54980,
+      "image_id": 5642,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1115.24,
+        185.837,
+        240.8767
+      ],
+      "area": 44763.8032979,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "image_file": "n8OCuVBS6z2B_0_messy.jpg",
+  "image_size": {
+    "width": 3456,
+    "height": 4608
+  },
+  "annotations": [
+    {
+      "id": 7065,
+      "image_id": 380,
+      "category_id": 1,
+      "bbox": [
+        820,
+        435,
+        2002.5,
+        1680
+      ],
+      "area": 3364200,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7066,
+      "image_id": 380,
+      "category_id": 1,
+      "bbox": [
+        760,
+        885,
+        1092.5,
+        297.5
+      ],
+      "area": 325018.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7067,
+      "image_id": 380,
+      "category_id": 1,
+      "bbox": [
+        1300,
+        410,
+        942.5,
+        690
+      ],
+      "area": 650325,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "image_file": "PoHZ7F9fLnX2_2_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 24906,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        369.777778,
+        329.955556,
+        146.488889,
+        163.555555
+      ],
+      "area": 23959.071542,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24907,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        298.666667,
+        775.111111,
+        268.8,
+        248.888889
+      ],
+      "area": 66901.333363,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24909,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        684.088889,
+        898.844444,
+        275.911111,
+        221.866667
+      ],
+      "area": 61215.478586,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24910,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        460.8,
+        982.755556,
+        420.977778,
+        297.244444
+      ],
+      "area": 125133.305558,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24911,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        64.0,
+        635.733333,
+        137.955556,
+        86.755556
+      ],
+      "area": 11968.410964,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24912,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        630.044444,
+        73.955556,
+        82.488889
+      ],
+      "area": 6100.51165,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24913,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        78.222222,
+        735.288889,
+        34.133334,
+        69.688889
+      ],
+      "area": 2378.714124,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 24915,
+      "image_id": 1419,
+      "category_id": 1,
+      "bbox": [
+        682.666667,
+        546.133333,
+        173.511111,
+        122.311111
+      ],
+      "area": 21222.336757,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "image_file": "XEDYCiGIIbex_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 33888,
+      "image_id": 2474,
+      "category_id": 1,
+      "bbox": [
+        436.6222,
+        180.6222,
+        294.4,
+        170.6667
+      ],
+      "area": 50244.27648,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 33889,
+      "image_id": 2474,
+      "category_id": 1,
+      "bbox": [
+        627.2,
+        118.0444,
+        321.4222,
+        162.1334
+      ],
+      "area": 52113.27412148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 33890,
+      "image_id": 2474,
+      "category_id": 1,
+      "bbox": [
+        782.2222,
+        0.0,
+        294.4,
+        200.5333
+      ],
+      "area": 59037.00352,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 33891,
+      "image_id": 2474,
+      "category_id": 1,
+      "bbox": [
+        813.5111,
+        167.8222,
+        337.0667,
+        176.3556
+      ],
+      "area": 59443.60011852,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 33892,
+      "image_id": 2474,
+      "category_id": 1,
+      "bbox": [
+        1018.3111,
+        797.8667,
+        106.6667,
+        62.5777
+      ],
+      "area": 6674.95675259,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

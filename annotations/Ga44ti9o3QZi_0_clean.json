@@ -1,0 +1,23 @@
+{
+  "image_file": "Ga44ti9o3QZi_0_clean.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 3024
+  },
+  "annotations": [
+    {
+      "id": 7202,
+      "image_id": 387,
+      "category_id": 1,
+      "bbox": [
+        2028,
+        1675,
+        1257.5,
+        980
+      ],
+      "area": 1232350,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

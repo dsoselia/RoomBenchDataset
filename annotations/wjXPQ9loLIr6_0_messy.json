@@ -1,0 +1,23 @@
+{
+  "image_file": "wjXPQ9loLIr6_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 768
+  },
+  "annotations": [
+    {
+      "id": 47511,
+      "image_id": 4512,
+      "category_id": 1,
+      "bbox": [
+        79.6444,
+        146.4889,
+        56.8889,
+        116.6222
+      ],
+      "area": 6634.50867358,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

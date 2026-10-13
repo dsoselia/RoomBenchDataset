@@ -1,0 +1,121 @@
+{
+  "image_file": "KS3Y0IIhWeNq_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 34713,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        334.2222,
+        246.0444,
+        236.0889,
+        217.6
+      ],
+      "area": 51372.94464,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34714,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        430.9333,
+        537.6,
+        275.9111,
+        129.4222
+      ],
+      "area": 35709.02156642,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34715,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        250.3111,
+        516.2667,
+        59.7333,
+        62.5777
+      ],
+      "area": 3737.97252741,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34716,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        302.9333,
+        531.9111,
+        39.8223,
+        75.3778
+      ],
+      "area": 3001.71736494,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34717,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        422.4,
+        504.8889,
+        167.8222,
+        66.8444
+      ],
+      "area": 11217.97426568,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34718,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        603.0222,
+        459.3778,
+        258.8445,
+        125.1555
+      ],
+      "area": 32395.81281975,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34719,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        163.5556,
+        79.6444,
+        312.8888,
+        156.4445
+      ],
+      "area": 48949.7318716,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34720,
+      "image_id": 2594,
+      "category_id": 1,
+      "bbox": [
+        775.1111,
+        366.9333,
+        89.6,
+        133.6889
+      ],
+      "area": 11978.52544,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

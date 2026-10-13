@@ -1,0 +1,79 @@
+{
+  "image_file": "XPAugPWSE4HI_0_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 383
+  },
+  "annotations": [
+    {
+      "id": 38048,
+      "image_id": 3080,
+      "category_id": 1,
+      "bbox": [
+        207.0,
+        309.0,
+        256.0,
+        74.0
+      ],
+      "area": 18944.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38049,
+      "image_id": 3080,
+      "category_id": 1,
+      "bbox": [
+        49.0,
+        224.0,
+        126.0,
+        52.0
+      ],
+      "area": 6552.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38050,
+      "image_id": 3080,
+      "category_id": 1,
+      "bbox": [
+        58.0,
+        276.0,
+        108.0,
+        35.0
+      ],
+      "area": 3780.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38051,
+      "image_id": 3080,
+      "category_id": 1,
+      "bbox": [
+        151.0,
+        268.0,
+        36.0,
+        18.0
+      ],
+      "area": 648.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38052,
+      "image_id": 3080,
+      "category_id": 1,
+      "bbox": [
+        183.0,
+        310.0,
+        15.0,
+        17.0
+      ],
+      "area": 255.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

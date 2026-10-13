@@ -1,0 +1,65 @@
+{
+  "image_file": "HGiveYXC2Aii_1_messy.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 3024
+  },
+  "annotations": [
+    {
+      "id": 9737,
+      "image_id": 522,
+      "category_id": 1,
+      "bbox": [
+        1395,
+        1575,
+        452.5,
+        315
+      ],
+      "area": 142537.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9738,
+      "image_id": 522,
+      "category_id": 1,
+      "bbox": [
+        1185,
+        1480,
+        332.5,
+        327.5
+      ],
+      "area": 108893.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9739,
+      "image_id": 522,
+      "category_id": 1,
+      "bbox": [
+        2010,
+        1630,
+        155,
+        217.5
+      ],
+      "area": 33712.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9740,
+      "image_id": 522,
+      "category_id": 1,
+      "bbox": [
+        0,
+        1965,
+        510,
+        672.5
+      ],
+      "area": 342975,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

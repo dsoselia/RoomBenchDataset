@@ -1,0 +1,37 @@
+{
+  "image_file": "IIbhjGsuhOkP_2_messy.jpg",
+  "image_size": {
+    "width": 956,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 54861,
+      "image_id": 5622,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        960.0,
+        133.7262,
+        156.4444
+      ],
+      "area": 20920.71512328,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54862,
+      "image_id": 5622,
+      "category_id": 1,
+      "bbox": [
+        503.6071,
+        971.3778,
+        146.5298,
+        273.0666
+      ],
+      "area": 40012.39428468,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

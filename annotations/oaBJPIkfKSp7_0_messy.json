@@ -1,0 +1,51 @@
+{
+  "image_file": "oaBJPIkfKSp7_0_messy.jpg",
+  "image_size": {
+    "width": 505,
+    "height": 504
+  },
+  "annotations": [
+    {
+      "id": 2294,
+      "image_id": 119,
+      "category_id": 1,
+      "bbox": [
+        251,
+        137,
+        72.33,
+        123.67
+      ],
+      "area": 8945.051,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2295,
+      "image_id": 119,
+      "category_id": 1,
+      "bbox": [
+        257,
+        21,
+        123.33,
+        66.67
+      ],
+      "area": 8222.411,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2296,
+      "image_id": 119,
+      "category_id": 1,
+      "bbox": [
+        457,
+        27,
+        47.67,
+        67.67
+      ],
+      "area": 3225.829,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

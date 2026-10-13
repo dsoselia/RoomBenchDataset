@@ -1,0 +1,37 @@
+{
+  "image_file": "V2WC9Izgt1qr_0_messy.jpg",
+  "image_size": {
+    "width": 1536,
+    "height": 2048
+  },
+  "annotations": [
+    {
+      "id": 12600,
+      "image_id": 692,
+      "category_id": 1,
+      "bbox": [
+        433,
+        955,
+        512.5,
+        580
+      ],
+      "area": 297250,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12601,
+      "image_id": 692,
+      "category_id": 1,
+      "bbox": [
+        305,
+        428,
+        1062.5,
+        1367.5
+      ],
+      "area": 1452968.75,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

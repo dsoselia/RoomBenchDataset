@@ -1,0 +1,65 @@
+{
+  "image_file": "FucGEOCOoqsL_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 52833,
+      "image_id": 5306,
+      "category_id": 1,
+      "bbox": [
+        149.4071,
+        1070.9333,
+        170.751,
+        209.0667
+      ],
+      "area": 35698.3480917,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 52834,
+      "image_id": 5306,
+      "category_id": 1,
+      "bbox": [
+        241.8972,
+        1028.2667,
+        125.2174,
+        129.4222
+      ],
+      "area": 16205.91138628,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 52835,
+      "image_id": 5306,
+      "category_id": 1,
+      "bbox": [
+        263.2411,
+        1143.4667,
+        229.0909,
+        136.5333
+      ],
+      "area": 31278.53657697,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 52836,
+      "image_id": 5306,
+      "category_id": 1,
+      "bbox": [
+        382.7668,
+        1231.6444,
+        115.2569,
+        48.3556
+      ],
+      "area": 5573.31655364,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

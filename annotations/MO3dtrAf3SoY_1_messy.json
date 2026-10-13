@@ -1,0 +1,37 @@
+{
+  "image_file": "MO3dtrAf3SoY_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 32836,
+      "image_id": 2340,
+      "category_id": 1,
+      "bbox": [
+        621.5111,
+        160.7111,
+        475.0222,
+        110.9333
+      ],
+      "area": 52695.78021926,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 32837,
+      "image_id": 2340,
+      "category_id": 1,
+      "bbox": [
+        547.5556,
+        389.6889,
+        105.2444,
+        35.5555
+      ],
+      "area": 3742.0172642,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

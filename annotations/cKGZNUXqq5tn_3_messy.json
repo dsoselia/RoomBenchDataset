@@ -1,0 +1,37 @@
+{
+  "image_file": "cKGZNUXqq5tn_3_messy.jpg",
+  "image_size": {
+    "width": 956,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 39419,
+      "image_id": 3316,
+      "category_id": 1,
+      "bbox": [
+        404.0238,
+        457.9556,
+        261.7619,
+        210.4888
+      ],
+      "area": 55097.94821672,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39420,
+      "image_id": 3316,
+      "category_id": 1,
+      "bbox": [
+        39.8333,
+        711.1111,
+        72.5536,
+        96.7111
+      ],
+      "area": 7016.73846496,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

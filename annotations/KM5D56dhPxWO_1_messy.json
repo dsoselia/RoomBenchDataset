@@ -1,0 +1,65 @@
+{
+  "image_file": "KM5D56dhPxWO_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 48193,
+      "image_id": 4608,
+      "category_id": 1,
+      "bbox": [
+        467.9111,
+        394.1502,
+        335.6445,
+        129.4862
+      ],
+      "area": 43461.3308559,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48194,
+      "image_id": 4608,
+      "category_id": 1,
+      "bbox": [
+        533.3333,
+        320.1581,
+        98.1334,
+        99.6047
+      ],
+      "area": 9774.54786698,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48195,
+      "image_id": 4608,
+      "category_id": 1,
+      "bbox": [
+        1049.6,
+        456.7589,
+        166.4,
+        119.5257
+      ],
+      "area": 19889.07648,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48196,
+      "image_id": 4608,
+      "category_id": 1,
+      "bbox": [
+        1042.4889,
+        537.8656,
+        167.8222,
+        81.1067
+      ],
+      "area": 13611.50482874,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

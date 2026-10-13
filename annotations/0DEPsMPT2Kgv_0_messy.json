@@ -1,0 +1,51 @@
+{
+  "image_file": "0DEPsMPT2Kgv_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 44663,
+      "image_id": 4064,
+      "category_id": 1,
+      "bbox": [
+        728.1778,
+        331.3778,
+        270.2222,
+        95.2889
+      ],
+      "area": 25749.17619358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44664,
+      "image_id": 4064,
+      "category_id": 1,
+      "bbox": [
+        705.4222,
+        661.3333,
+        261.6889,
+        297.2445
+      ],
+      "area": 77785.58623605,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44665,
+      "image_id": 4064,
+      "category_id": 1,
+      "bbox": [
+        758.0444,
+        529.0667,
+        241.7778,
+        196.2666
+      ],
+      "area": 47452.90676148,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

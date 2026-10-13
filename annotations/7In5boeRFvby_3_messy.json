@@ -1,0 +1,51 @@
+{
+  "image_file": "7In5boeRFvby_3_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 57779,
+      "image_id": 6098,
+      "category_id": 1,
+      "bbox": [
+        840.5333,
+        234.7826,
+        69.6889,
+        167.9051
+      ],
+      "area": 11701.12172339,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57780,
+      "image_id": 6098,
+      "category_id": 1,
+      "bbox": [
+        994.1333,
+        535.0198,
+        125.1556,
+        92.4901
+      ],
+      "area": 11575.65395956,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57781,
+      "image_id": 6098,
+      "category_id": 1,
+      "bbox": [
+        381.1556,
+        291.6996,
+        83.9111,
+        75.415
+      ],
+      "area": 6328.1556065,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

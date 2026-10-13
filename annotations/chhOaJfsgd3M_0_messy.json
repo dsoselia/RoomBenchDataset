@@ -1,0 +1,23 @@
+{
+  "image_file": "chhOaJfsgd3M_0_messy.jpg",
+  "image_size": {
+    "width": 2048,
+    "height": 1023
+  },
+  "annotations": [
+    {
+      "id": 7077,
+      "image_id": 383,
+      "category_id": 1,
+      "bbox": [
+        1599,
+        600,
+        369.29,
+        423
+      ],
+      "area": 156209.67,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

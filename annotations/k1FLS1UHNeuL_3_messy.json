@@ -1,0 +1,51 @@
+{
+  "image_file": "k1FLS1UHNeuL_3_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 25294,
+      "image_id": 1446,
+      "category_id": 1,
+      "bbox": [
+        490.666667,
+        576.0,
+        71.111111,
+        49.777778
+      ],
+      "area": 3539.753097,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 25296,
+      "image_id": 1446,
+      "category_id": 1,
+      "bbox": [
+        705.422222,
+        392.533333,
+        68.266667,
+        224.711111
+      ],
+      "area": 15340.278586,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 25297,
+      "image_id": 1446,
+      "category_id": 1,
+      "bbox": [
+        809.244444,
+        409.6,
+        100.977778,
+        203.377778
+      ],
+      "area": 20536.636117,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

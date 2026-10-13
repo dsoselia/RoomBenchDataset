@@ -1,0 +1,37 @@
+{
+  "image_file": "ergCSRVyCzWn_1_messy.jpg",
+  "image_size": {
+    "width": 1037,
+    "height": 683
+  },
+  "annotations": [
+    {
+      "id": 5201,
+      "image_id": 276,
+      "category_id": 1,
+      "bbox": [
+        120,
+        133,
+        254.38,
+        427.75
+      ],
+      "area": 108811.045,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5202,
+      "image_id": 276,
+      "category_id": 1,
+      "bbox": [
+        75,
+        384,
+        157.12,
+        224.06
+      ],
+      "area": 35204.3072,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

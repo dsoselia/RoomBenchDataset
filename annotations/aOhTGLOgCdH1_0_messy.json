@@ -1,0 +1,51 @@
+{
+  "image_file": "aOhTGLOgCdH1_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 26371,
+      "image_id": 1515,
+      "category_id": 1,
+      "bbox": [
+        354.133333,
+        1055.288889,
+        398.222223,
+        224.711111
+      ],
+      "area": 89484.958155,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 26372,
+      "image_id": 1515,
+      "category_id": 1,
+      "bbox": [
+        645.688889,
+        1079.466667,
+        207.644444,
+        200.533333
+      ],
+      "area": 41639.632434,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 26381,
+      "image_id": 1515,
+      "category_id": 1,
+      "bbox": [
+        341.333333,
+        1198.933333,
+        172.088889,
+        81.066667
+      ],
+      "area": 13950.672659,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "image_file": "TgiUjZiokDiN_1_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 60207,
+      "image_id": 6490,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1112.1778,
+        38.419,
+        119.4666
+      ],
+      "area": 4589.7873054,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 60208,
+      "image_id": 6490,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1187.5556,
+        92.4901,
+        92.4444
+      ],
+      "area": 8550.19180044,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

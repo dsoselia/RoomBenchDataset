@@ -1,0 +1,79 @@
+{
+  "image_file": "PskoxeGcpnhw_0_messy.jpg",
+  "image_size": {
+    "width": 3264,
+    "height": 2447
+  },
+  "annotations": [
+    {
+      "id": 1897,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        270,
+        1423,
+        565,
+        758.33
+      ],
+      "area": 428456.45,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1898,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        898,
+        1463,
+        485,
+        303.33
+      ],
+      "area": 147115.05,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1899,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        2043,
+        2073,
+        393.33,
+        286.67
+      ],
+      "area": 112755.911,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1900,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        2280,
+        1787,
+        753.33,
+        540
+      ],
+      "area": 406798.2,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1901,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        2900,
+        1878,
+        363,
+        425
+      ],
+      "area": 154275,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

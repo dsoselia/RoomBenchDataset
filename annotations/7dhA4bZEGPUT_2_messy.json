@@ -1,0 +1,37 @@
+{
+  "image_file": "7dhA4bZEGPUT_2_messy.jpg",
+  "image_size": {
+    "width": 1199,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 49464,
+      "image_id": 4802,
+      "category_id": 1,
+      "bbox": [
+        519.14,
+        735.2889,
+        137.9632,
+        81.0667
+      ],
+      "area": 11184.22134544,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 49465,
+      "image_id": 4802,
+      "category_id": 1,
+      "bbox": [
+        809.2894,
+        750.9333,
+        68.2705,
+        59.7334
+      ],
+      "area": 4078.0290847,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

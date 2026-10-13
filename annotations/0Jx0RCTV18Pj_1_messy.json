@@ -1,0 +1,51 @@
+{
+  "image_file": "0Jx0RCTV18Pj_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 52372,
+      "image_id": 5240,
+      "category_id": 1,
+      "bbox": [
+        160.7111,
+        189.249,
+        209.0667,
+        138.0237
+      ],
+      "area": 28856.15948079,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 52373,
+      "image_id": 5240,
+      "category_id": 1,
+      "bbox": [
+        803.5556,
+        529.3281,
+        204.8,
+        166.4822
+      ],
+      "area": 34095.55456,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 52374,
+      "image_id": 5240,
+      "category_id": 1,
+      "bbox": [
+        860.4444,
+        315.8893,
+        129.4223,
+        209.17
+      ],
+      "area": 27071.262491,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

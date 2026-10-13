@@ -1,0 +1,51 @@
+{
+  "image_file": "4cGXl9bGre9f_2_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 44751,
+      "image_id": 4076,
+      "category_id": 1,
+      "bbox": [
+        314.3111,
+        379.7333,
+        231.8222,
+        199.1111
+      ],
+      "area": 46158.37324642,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44752,
+      "image_id": 4076,
+      "category_id": 1,
+      "bbox": [
+        207.6444,
+        428.0889,
+        86.7556,
+        59.7333
+      ],
+      "area": 5182.19828148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44753,
+      "image_id": 4076,
+      "category_id": 1,
+      "bbox": [
+        696.8889,
+        418.1333,
+        244.6222,
+        98.1334
+      ],
+      "area": 24005.60820148,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

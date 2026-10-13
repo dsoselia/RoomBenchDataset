@@ -1,0 +1,51 @@
+{
+  "image_file": "USDQEtQsZdsk_0_messy.jpg",
+  "image_size": {
+    "width": 4000,
+    "height": 3000
+  },
+  "annotations": [
+    {
+      "id": 146,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        75,
+        1910,
+        545,
+        642.5
+      ],
+      "area": 350162.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 147,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        955,
+        980,
+        307.5,
+        692.5
+      ],
+      "area": 212943.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 148,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        1280,
+        1340,
+        465,
+        197.5
+      ],
+      "area": 91837.5,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

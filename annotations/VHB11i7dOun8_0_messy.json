@@ -1,0 +1,37 @@
+{
+  "image_file": "VHB11i7dOun8_0_messy.jpg",
+  "image_size": {
+    "width": 1661,
+    "height": 3264
+  },
+  "annotations": [
+    {
+      "id": 7370,
+      "image_id": 397,
+      "category_id": 1,
+      "bbox": [
+        0,
+        1030,
+        975,
+        645
+      ],
+      "area": 628875,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7371,
+      "image_id": 397,
+      "category_id": 1,
+      "bbox": [
+        683,
+        545,
+        667.5,
+        877.5
+      ],
+      "area": 585731.25,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

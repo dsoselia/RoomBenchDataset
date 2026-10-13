@@ -1,0 +1,37 @@
+{
+  "image_file": "W6JRH0qprinB_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 29250,
+      "image_id": 1826,
+      "category_id": 1,
+      "bbox": [
+        312.8889,
+        403.9111,
+        129.4222,
+        39.8222
+      ],
+      "area": 5153.87673284,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 29251,
+      "image_id": 1826,
+      "category_id": 1,
+      "bbox": [
+        384.0,
+        402.4889,
+        75.3778,
+        34.1333
+      ],
+      "area": 2572.89306074,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

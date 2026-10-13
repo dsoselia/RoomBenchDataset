@@ -1,0 +1,37 @@
+{
+  "image_file": "JFWK1glXdxcS_1_messy.jpg",
+  "image_size": {
+    "width": 2896,
+    "height": 480
+  },
+  "annotations": [
+    {
+      "id": 3247,
+      "image_id": 166,
+      "category_id": 1,
+      "bbox": [
+        824,
+        374,
+        109,
+        88
+      ],
+      "area": 9592,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3248,
+      "image_id": 166,
+      "category_id": 1,
+      "bbox": [
+        888,
+        260,
+        131,
+        106
+      ],
+      "area": 13886,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

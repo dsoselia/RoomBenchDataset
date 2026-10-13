@@ -1,0 +1,79 @@
+{
+  "image_file": "mcK68v3nCgx5_3_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 44949,
+      "image_id": 4104,
+      "category_id": 1,
+      "bbox": [
+        157.9447,
+        1099.3778,
+        133.7549,
+        91.0222
+      ],
+      "area": 12174.66525878,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44950,
+      "image_id": 4104,
+      "category_id": 1,
+      "bbox": [
+        473.834,
+        1103.6444,
+        108.1423,
+        137.9556
+      ],
+      "area": 14918.83588188,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44951,
+      "image_id": 4104,
+      "category_id": 1,
+      "bbox": [
+        374.2292,
+        1123.5556,
+        76.838,
+        48.3555
+      ],
+      "area": 3715.539909,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44952,
+      "image_id": 4104,
+      "category_id": 1,
+      "bbox": [
+        389.8814,
+        556.0889,
+        44.1107,
+        103.8222
+      ],
+      "area": 4579.66991754,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44953,
+      "image_id": 4104,
+      "category_id": 1,
+      "bbox": [
+        1.4229,
+        1161.9556,
+        193.5178,
+        118.0444
+      ],
+      "area": 22843.69259032,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

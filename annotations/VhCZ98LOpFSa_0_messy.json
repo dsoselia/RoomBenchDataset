@@ -1,0 +1,107 @@
+{
+  "image_file": "VhCZ98LOpFSa_0_messy.jpg",
+  "image_size": {
+    "width": 1182,
+    "height": 901
+  },
+  "annotations": [
+    {
+      "id": 7345,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        193,
+        555,
+        241.25,
+        323.75
+      ],
+      "area": 78104.688,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7346,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        450,
+        544,
+        170,
+        153.13
+      ],
+      "area": 26032.1,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7347,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        18,
+        561,
+        226.25,
+        316.25
+      ],
+      "area": 71551.563,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7348,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        566,
+        295,
+        152.5,
+        221.25
+      ],
+      "area": 33740.625,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7349,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        674,
+        429,
+        173.75,
+        265.63
+      ],
+      "area": 46153.213,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7350,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        697,
+        336,
+        208.13,
+        128.75
+      ],
+      "area": 26796.737,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7351,
+      "image_id": 395,
+      "category_id": 1,
+      "bbox": [
+        860,
+        290,
+        98.13,
+        442.5
+      ],
+      "area": 43422.525,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

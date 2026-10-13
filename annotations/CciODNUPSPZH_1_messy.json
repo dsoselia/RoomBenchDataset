@@ -1,0 +1,37 @@
+{
+  "image_file": "CciODNUPSPZH_1_messy.jpg",
+  "image_size": {
+    "width": 284,
+    "height": 125
+  },
+  "annotations": [
+    {
+      "id": 5203,
+      "image_id": 278,
+      "category_id": 1,
+      "bbox": [
+        162,
+        53,
+        40.25,
+        32.75
+      ],
+      "area": 1318.1875,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5204,
+      "image_id": 278,
+      "category_id": 1,
+      "bbox": [
+        169,
+        56,
+        26.75,
+        12.25
+      ],
+      "area": 327.6875,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

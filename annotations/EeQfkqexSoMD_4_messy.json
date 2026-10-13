@@ -1,0 +1,51 @@
+{
+  "image_file": "EeQfkqexSoMD_4_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 40489,
+      "image_id": 3498,
+      "category_id": 1,
+      "bbox": [
+        699.7333,
+        668.4444,
+        207.6445,
+        172.0889
+      ],
+      "area": 35733.31359605,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40490,
+      "image_id": 3498,
+      "category_id": 1,
+      "bbox": [
+        620.0889,
+        696.8889,
+        92.4444,
+        73.9555
+      ],
+      "area": 6836.7718242,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40491,
+      "image_id": 3498,
+      "category_id": 1,
+      "bbox": [
+        881.7778,
+        718.2222,
+        56.8889,
+        89.6
+      ],
+      "area": 5097.24544,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

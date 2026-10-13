@@ -1,0 +1,37 @@
+{
+  "image_file": "SfnRf9lToItH_1_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 375
+  },
+  "annotations": [
+    {
+      "id": 38891,
+      "image_id": 3230,
+      "category_id": 1,
+      "bbox": [
+        306.0,
+        193.0,
+        45.0,
+        25.0
+      ],
+      "area": 1125.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 38892,
+      "image_id": 3230,
+      "category_id": 1,
+      "bbox": [
+        351.0,
+        181.0,
+        39.0,
+        39.0
+      ],
+      "area": 1521.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

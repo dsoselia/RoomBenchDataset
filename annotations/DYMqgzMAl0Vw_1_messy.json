@@ -1,0 +1,79 @@
+{
+  "image_file": "DYMqgzMAl0Vw_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 47251,
+      "image_id": 4472,
+      "category_id": 1,
+      "bbox": [
+        339.9111,
+        367.1146,
+        66.8445,
+        79.6838
+      ],
+      "area": 5326.4237691,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47252,
+      "image_id": 4472,
+      "category_id": 1,
+      "bbox": [
+        409.6,
+        368.5375,
+        64.0,
+        85.3755
+      ],
+      "area": 5464.032,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47253,
+      "image_id": 4472,
+      "category_id": 1,
+      "bbox": [
+        519.1111,
+        365.6917,
+        142.2222,
+        69.7233
+      ],
+      "area": 9916.20111726,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47254,
+      "image_id": 4472,
+      "category_id": 1,
+      "bbox": [
+        475.0222,
+        382.7668,
+        46.9334,
+        51.2253
+      ],
+      "area": 2404.17749502,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47255,
+      "image_id": 4472,
+      "category_id": 1,
+      "bbox": [
+        716.8,
+        298.8142,
+        71.1111,
+        103.8735
+      ],
+      "area": 7386.55884585,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "image_file": "lV0KMmOgSMxM_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 56299,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        691.2,
+        756.6222,
+        219.0222,
+        31.2889
+      ],
+      "area": 6852.96371358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56300,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        557.5111,
+        863.2889,
+        75.3778,
+        42.6667
+      ],
+      "area": 3216.12197926,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56301,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        843.3778,
+        796.4444,
+        27.0222,
+        25.6
+      ],
+      "area": 691.76832,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56302,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        475.0222,
+        678.4,
+        129.4222,
+        51.2
+      ],
+      "area": 6626.41664,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56303,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        469.3333,
+        719.6444,
+        83.9111,
+        24.1778
+      ],
+      "area": 2028.78579358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56304,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        577.4222,
+        581.6889,
+        52.6222,
+        93.8667
+      ],
+      "area": 4939.47226074,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56305,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        647.1111,
+        681.2444,
+        38.4,
+        27.0223
+      ],
+      "area": 1037.65632,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 56306,
+      "image_id": 5862,
+      "category_id": 1,
+      "bbox": [
+        614.4,
+        659.9111,
+        31.2889,
+        27.0222
+      ],
+      "area": 845.49491358,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

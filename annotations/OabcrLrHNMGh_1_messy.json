@@ -1,0 +1,65 @@
+{
+  "image_file": "OabcrLrHNMGh_1_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 41668,
+      "image_id": 3666,
+      "category_id": 1,
+      "bbox": [
+        396.8,
+        373.3333,
+        29.8667,
+        84.2667
+      ],
+      "area": 2516.76824889,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 41669,
+      "image_id": 3666,
+      "category_id": 1,
+      "bbox": [
+        311.4667,
+        448.0,
+        102.4,
+        27.7333
+      ],
+      "area": 2839.88992,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 41670,
+      "image_id": 3666,
+      "category_id": 1,
+      "bbox": [
+        282.6667,
+        476.8,
+        73.6,
+        28.8
+      ],
+      "area": 2119.68,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 41671,
+      "image_id": 3666,
+      "category_id": 1,
+      "bbox": [
+        248.5333,
+        414.9333,
+        65.0667,
+        74.6667
+      ],
+      "area": 4858.31576889,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

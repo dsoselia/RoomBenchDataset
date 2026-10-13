@@ -1,0 +1,121 @@
+{
+  "image_file": "veDUDLSwYgHm_1_messy.jpg",
+  "image_size": {
+    "width": 621,
+    "height": 530
+  },
+  "annotations": [
+    {
+      "id": 5989,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        69,
+        208,
+        164.65,
+        141.83
+      ],
+      "area": 23352.309500000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5990,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        200,
+        166,
+        296.85,
+        177.23
+      ],
+      "area": 52610.7255,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5991,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        357,
+        147,
+        133.19,
+        35.99
+      ],
+      "area": 4793.5081,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5992,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        216,
+        169,
+        44.16,
+        46.96
+      ],
+      "area": 2073.7536,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5993,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        400,
+        198,
+        63.34,
+        44.91
+      ],
+      "area": 2844.5994,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5994,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        277,
+        160,
+        45.94,
+        56.21
+      ],
+      "area": 2582.2873999999997,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5997,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        208,
+        50,
+        205.74,
+        58.14
+      ],
+      "area": 11961.723600000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6000,
+      "image_id": 320,
+      "category_id": 1,
+      "bbox": [
+        56,
+        188,
+        19.3,
+        34.85
+      ],
+      "area": 672.605,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

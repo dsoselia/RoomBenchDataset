@@ -1,0 +1,51 @@
+{
+  "image_file": "15umrssOme4B_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 44789,
+      "image_id": 4082,
+      "category_id": 1,
+      "bbox": [
+        294.4,
+        558.9333,
+        145.0667,
+        186.3111
+      ],
+      "area": 27027.53645037,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44790,
+      "image_id": 4082,
+      "category_id": 1,
+      "bbox": [
+        590.2222,
+        612.9778,
+        96.7111,
+        34.1333
+      ],
+      "area": 3301.06898963,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 44791,
+      "image_id": 4082,
+      "category_id": 1,
+      "bbox": [
+        870.4,
+        460.8,
+        108.0889,
+        155.0222
+      ],
+      "area": 16756.17907358,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

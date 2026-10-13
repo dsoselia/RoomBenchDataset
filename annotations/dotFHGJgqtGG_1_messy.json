@@ -1,0 +1,23 @@
+{
+  "image_file": "dotFHGJgqtGG_1_messy.jpg",
+  "image_size": {
+    "width": 719,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 20557,
+      "image_id": 1153,
+      "category_id": 1,
+      "bbox": [
+        545.644269,
+        1008.355556,
+        173.355731,
+        214.755555
+      ],
+      "area": 37229.106223,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

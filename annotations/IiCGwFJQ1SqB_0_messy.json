@@ -1,0 +1,51 @@
+{
+  "image_file": "IiCGwFJQ1SqB_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 28918,
+      "image_id": 1768,
+      "category_id": 1,
+      "bbox": [
+        142.2925,
+        770.8444,
+        411.2253,
+        254.5778
+      ],
+      "area": 104688.83217834,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 28919,
+      "image_id": 1768,
+      "category_id": 1,
+      "bbox": [
+        11.3834,
+        812.0889,
+        431.1462,
+        263.1111
+      ],
+      "area": 113439.35094282,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 28920,
+      "image_id": 1768,
+      "category_id": 1,
+      "bbox": [
+        32.7273,
+        704.0,
+        251.8577,
+        123.7333
+      ],
+      "area": 31163.18435141,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

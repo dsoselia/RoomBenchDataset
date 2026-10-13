@@ -1,0 +1,23 @@
+{
+  "image_file": "if5727h6UHqu_0_clean.jpg",
+  "image_size": {
+    "width": 1567,
+    "height": 3227
+  },
+  "annotations": [
+    {
+      "id": 10873,
+      "image_id": 592,
+      "category_id": 1,
+      "bbox": [
+        1115,
+        2300,
+        452,
+        497.5
+      ],
+      "area": 224870,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

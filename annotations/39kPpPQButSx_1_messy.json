@@ -1,0 +1,51 @@
+{
+  "image_file": "39kPpPQButSx_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 45803,
+      "image_id": 4244,
+      "category_id": 1,
+      "bbox": [
+        61.1556,
+        503.4667,
+        211.9111,
+        130.8444
+      ],
+      "area": 27727.38073284,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45804,
+      "image_id": 4244,
+      "category_id": 1,
+      "bbox": [
+        406.7556,
+        558.9333,
+        76.8,
+        45.5111
+      ],
+      "area": 3495.25248,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45805,
+      "image_id": 4244,
+      "category_id": 1,
+      "bbox": [
+        1085.1556,
+        827.7333,
+        91.0222,
+        132.2667
+      ],
+      "area": 12039.20602074,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

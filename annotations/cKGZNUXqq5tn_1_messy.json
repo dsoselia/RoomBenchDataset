@@ -1,0 +1,121 @@
+{
+  "image_file": "cKGZNUXqq5tn_1_messy.jpg",
+  "image_size": {
+    "width": 956,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 39406,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        1075.2,
+        197.744,
+        194.8444
+      ],
+      "area": 38529.3110336,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39407,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        99.5833,
+        958.5778,
+        217.6607,
+        167.8222
+      ],
+      "area": 36528.29752754,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39408,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        290.2143,
+        931.5556,
+        206.2797,
+        300.0888
+      ],
+      "area": 61902.22763736,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39409,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        193.4762,
+        1063.8222,
+        113.8095,
+        204.8
+      ],
+      "area": 23308.1856,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39410,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        211.9702,
+        913.0667,
+        153.6429,
+        98.1333
+      ],
+      "area": 15077.48479857,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39411,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        99.5833,
+        913.0667,
+        58.3274,
+        59.7333
+      ],
+      "area": 3484.08808242,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39412,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        187.7857,
+        908.8,
+        120.9226,
+        36.9778
+      ],
+      "area": 4471.45171828,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 39413,
+      "image_id": 3312,
+      "category_id": 1,
+      "bbox": [
+        550.5536,
+        526.2222,
+        126.6131,
+        59.7334
+      ],
+      "area": 7563.03094754,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "image_file": "zfuzSRWiEV04_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 46350,
+      "image_id": 4346,
+      "category_id": 1,
+      "bbox": [
+        547.5556,
+        753.7778,
+        221.8666,
+        354.1333
+      ],
+      "area": 78570.35121778,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46351,
+      "image_id": 4346,
+      "category_id": 1,
+      "bbox": [
+        413.8667,
+        1089.4222,
+        243.2,
+        190.5778
+      ],
+      "area": 46348.52096,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

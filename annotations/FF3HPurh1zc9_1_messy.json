@@ -1,0 +1,23 @@
+{
+  "image_file": "FF3HPurh1zc9_1_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 659
+  },
+  "annotations": [
+    {
+      "id": 38279,
+      "image_id": 3114,
+      "category_id": 1,
+      "bbox": [
+        5.0,
+        544.0,
+        165.0,
+        115.0
+      ],
+      "area": 18975.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

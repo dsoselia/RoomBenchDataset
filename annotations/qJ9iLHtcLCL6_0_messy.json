@@ -1,0 +1,23 @@
+{
+  "image_file": "qJ9iLHtcLCL6_0_messy.jpg",
+  "image_size": {
+    "width": 1564,
+    "height": 781
+  },
+  "annotations": [
+    {
+      "id": 10022,
+      "image_id": 539,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        1553.33,
+        781
+      ],
+      "area": 1213150.73,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

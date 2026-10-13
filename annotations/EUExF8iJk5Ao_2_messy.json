@@ -1,0 +1,23 @@
+{
+  "image_file": "EUExF8iJk5Ao_2_messy.jpg",
+  "image_size": {
+    "width": 891,
+    "height": 243
+  },
+  "annotations": [
+    {
+      "id": 6789,
+      "image_id": 364,
+      "category_id": 1,
+      "bbox": [
+        0,
+        74,
+        157,
+        169
+      ],
+      "area": 26533,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

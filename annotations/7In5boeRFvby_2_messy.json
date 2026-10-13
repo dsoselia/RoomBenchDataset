@@ -1,0 +1,93 @@
+{
+  "image_file": "7In5boeRFvby_2_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 57773,
+      "image_id": 6096,
+      "category_id": 1,
+      "bbox": [
+        283.0222,
+        371.3834,
+        120.8889,
+        118.1028
+      ],
+      "area": 14277.31757892,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57774,
+      "image_id": 6096,
+      "category_id": 1,
+      "bbox": [
+        271.6444,
+        459.6047,
+        155.0223,
+        83.9526
+      ],
+      "area": 13014.52514298,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57775,
+      "image_id": 6096,
+      "category_id": 1,
+      "bbox": [
+        246.0444,
+        406.9565,
+        56.8889,
+        187.8261
+      ],
+      "area": 10685.22022029,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57776,
+      "image_id": 6096,
+      "category_id": 1,
+      "bbox": [
+        274.4889,
+        597.6285,
+        123.7333,
+        79.6838
+      ],
+      "area": 9859.53953054,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57777,
+      "image_id": 6096,
+      "category_id": 1,
+      "bbox": [
+        588.8,
+        357.1542,
+        36.9778,
+        36.996
+      ],
+      "area": 1368.0306888,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57778,
+      "image_id": 6096,
+      "category_id": 1,
+      "bbox": [
+        864.7111,
+        458.1818,
+        22.7556,
+        27.0356
+      ],
+      "area": 615.21129936,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

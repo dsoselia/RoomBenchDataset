@@ -1,0 +1,23 @@
+{
+  "image_file": "vawdKBN27bGi_2_messy.jpg",
+  "image_size": {
+    "width": 2831,
+    "height": 1144
+  },
+  "annotations": [
+    {
+      "id": 6634,
+      "image_id": 358,
+      "category_id": 1,
+      "bbox": [
+        0,
+        817,
+        1155,
+        327
+      ],
+      "area": 377685,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "image_file": "DjaC5cJNexfo_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 41627,
+      "image_id": 3656,
+      "category_id": 1,
+      "bbox": [
+        244.6222,
+        692.6222,
+        186.3111,
+        267.3778
+      ],
+      "area": 49815.45203358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 41628,
+      "image_id": 3656,
+      "category_id": 1,
+      "bbox": [
+        947.2,
+        425.2444,
+        177.7778,
+        28.4445
+      ],
+      "area": 5056.8006321,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 41629,
+      "image_id": 3656,
+      "category_id": 1,
+      "bbox": [
+        962.8444,
+        443.7333,
+        164.9778,
+        22.7556
+      ],
+      "area": 3754.16882568,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

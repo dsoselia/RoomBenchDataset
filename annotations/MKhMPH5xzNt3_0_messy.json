@@ -1,0 +1,37 @@
+{
+  "image_file": "MKhMPH5xzNt3_0_messy.jpg",
+  "image_size": {
+    "width": 1700,
+    "height": 632
+  },
+  "annotations": [
+    {
+      "id": 12292,
+      "image_id": 678,
+      "category_id": 1,
+      "bbox": [
+        634,
+        321,
+        261.25,
+        111.25
+      ],
+      "area": 29064.063,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12293,
+      "image_id": 678,
+      "category_id": 1,
+      "bbox": [
+        595,
+        329,
+        409.38,
+        240.63
+      ],
+      "area": 98509.109,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

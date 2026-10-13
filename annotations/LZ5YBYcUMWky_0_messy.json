@@ -1,0 +1,79 @@
+{
+  "image_file": "LZ5YBYcUMWky_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 58963,
+      "image_id": 6278,
+      "category_id": 1,
+      "bbox": [
+        19.9111,
+        1024.0,
+        321.4222,
+        256.0
+      ],
+      "area": 82284.0832,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 58964,
+      "image_id": 6278,
+      "category_id": 1,
+      "bbox": [
+        182.0444,
+        873.2444,
+        82.4889,
+        95.2889
+      ],
+      "area": 7860.27654321,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 58965,
+      "image_id": 6278,
+      "category_id": 1,
+      "bbox": [
+        799.2889,
+        987.0222,
+        109.5111,
+        64.0
+      ],
+      "area": 7008.7104,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 58966,
+      "image_id": 6278,
+      "category_id": 1,
+      "bbox": [
+        904.5333,
+        881.7778,
+        55.4667,
+        139.3778
+      ],
+      "area": 7730.82661926,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 58967,
+      "image_id": 6278,
+      "category_id": 1,
+      "bbox": [
+        870.4,
+        759.4667,
+        88.1778,
+        46.9333
+      ],
+      "area": 4138.47514074,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

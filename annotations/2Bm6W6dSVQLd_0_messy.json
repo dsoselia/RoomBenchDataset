@@ -1,0 +1,121 @@
+{
+  "image_file": "2Bm6W6dSVQLd_0_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 375
+  },
+  "annotations": [
+    {
+      "id": 46466,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        119.0,
+        278.0,
+        32.0,
+        27.0
+      ],
+      "area": 864.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46467,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        148.0,
+        278.0,
+        27.0,
+        27.0
+      ],
+      "area": 729.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46468,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        125.0,
+        289.0,
+        56.0,
+        46.0
+      ],
+      "area": 2576.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46469,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        155.0,
+        301.0,
+        50.0,
+        21.0
+      ],
+      "area": 1050.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46470,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        142.0,
+        318.0,
+        32.0,
+        30.0
+      ],
+      "area": 960.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46471,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        164.0,
+        320.0,
+        38.0,
+        30.0
+      ],
+      "area": 1140.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46472,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        174.0,
+        335.0,
+        54.0,
+        22.0
+      ],
+      "area": 1188.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46473,
+      "image_id": 4368,
+      "category_id": 1,
+      "bbox": [
+        251.0,
+        285.0,
+        30.0,
+        27.0
+      ],
+      "area": 810.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

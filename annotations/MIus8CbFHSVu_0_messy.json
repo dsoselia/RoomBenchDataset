@@ -1,0 +1,79 @@
+{
+  "image_file": "MIus8CbFHSVu_0_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 36631,
+      "image_id": 2856,
+      "category_id": 1,
+      "bbox": [
+        253.1556,
+        678.4,
+        230.4,
+        294.4
+      ],
+      "area": 67829.76,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36632,
+      "image_id": 2856,
+      "category_id": 1,
+      "bbox": [
+        493.5111,
+        810.6667,
+        267.3778,
+        184.8889
+      ],
+      "area": 49435.18732642,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36633,
+      "image_id": 2856,
+      "category_id": 1,
+      "bbox": [
+        726.7556,
+        743.8222,
+        103.8222,
+        368.3556
+      ],
+      "area": 38243.48877432,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36634,
+      "image_id": 2856,
+      "category_id": 1,
+      "bbox": [
+        321.4222,
+        940.0889,
+        136.5334,
+        194.8444
+      ],
+      "area": 26602.76840296,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36635,
+      "image_id": 2856,
+      "category_id": 1,
+      "bbox": [
+        75.3778,
+        978.4889,
+        152.1778,
+        89.6
+      ],
+      "area": 13635.13088,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

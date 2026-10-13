@@ -1,0 +1,37 @@
+{
+  "image_file": "GYUBIWyZBGye_0_messy.jpg",
+  "image_size": {
+    "width": 450,
+    "height": 600
+  },
+  "annotations": [
+    {
+      "id": 34676,
+      "image_id": 2588,
+      "category_id": 1,
+      "bbox": [
+        105.0,
+        477.0,
+        175.0,
+        123.0
+      ],
+      "area": 21525.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 34677,
+      "image_id": 2588,
+      "category_id": 1,
+      "bbox": [
+        74.0,
+        136.0,
+        90.0,
+        95.0
+      ],
+      "area": 8550.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

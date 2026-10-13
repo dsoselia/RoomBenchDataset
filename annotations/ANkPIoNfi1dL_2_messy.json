@@ -1,0 +1,79 @@
+{
+  "image_file": "ANkPIoNfi1dL_2_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 31115,
+      "image_id": 2076,
+      "category_id": 1,
+      "bbox": [
+        403.9111,
+        719.6444,
+        126.5778,
+        91.0223
+      ],
+      "area": 11521.40248494,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31116,
+      "image_id": 2076,
+      "category_id": 1,
+      "bbox": [
+        366.9333,
+        837.6889,
+        116.6223,
+        89.6
+      ],
+      "area": 10449.35808,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31117,
+      "image_id": 2076,
+      "category_id": 1,
+      "bbox": [
+        386.8444,
+        874.6667,
+        99.5556,
+        98.1333
+      ],
+      "area": 9769.71956148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31118,
+      "image_id": 2076,
+      "category_id": 1,
+      "bbox": [
+        213.3333,
+        773.6889,
+        78.2223,
+        56.8889
+      ],
+      "area": 4449.98060247,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31119,
+      "image_id": 2076,
+      "category_id": 1,
+      "bbox": [
+        11.3778,
+        499.2,
+        66.8444,
+        38.4
+      ],
+      "area": 2566.82496,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

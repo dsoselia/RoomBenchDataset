@@ -1,0 +1,23 @@
+{
+  "image_file": "XmO1yfxy8sU4_0_messy.jpg",
+  "image_size": {
+    "width": 3024,
+    "height": 4032
+  },
+  "annotations": [
+    {
+      "id": 8390,
+      "image_id": 454,
+      "category_id": 1,
+      "bbox": [
+        485,
+        2510,
+        622.5,
+        550
+      ],
+      "area": 342375,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

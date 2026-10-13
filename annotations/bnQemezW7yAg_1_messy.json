@@ -1,0 +1,65 @@
+{
+  "image_file": "bnQemezW7yAg_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 46421,
+      "image_id": 4360,
+      "category_id": 1,
+      "bbox": [
+        137.9556,
+        61.1858,
+        210.4888,
+        509.4071
+      ],
+      "area": 107224.48919048,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46422,
+      "image_id": 4360,
+      "category_id": 1,
+      "bbox": [
+        153.6,
+        505.1383,
+        263.1111,
+        157.9447
+      ],
+      "area": 41557.00375617,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46423,
+      "image_id": 4360,
+      "category_id": 1,
+      "bbox": [
+        558.9333,
+        338.6561,
+        281.6,
+        156.5218
+      ],
+      "area": 44076.53888,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46424,
+      "image_id": 4360,
+      "category_id": 1,
+      "bbox": [
+        713.9556,
+        264.664,
+        551.8222,
+        196.3637
+      ],
+      "area": 108357.84893414,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

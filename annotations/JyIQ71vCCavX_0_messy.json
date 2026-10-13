@@ -1,0 +1,23 @@
+{
+  "image_file": "JyIQ71vCCavX_0_messy.jpg",
+  "image_size": {
+    "width": 2160,
+    "height": 1424
+  },
+  "annotations": [
+    {
+      "id": 11454,
+      "image_id": 631,
+      "category_id": 1,
+      "bbox": [
+        267,
+        188,
+        1329,
+        1166
+      ],
+      "area": 1549614,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

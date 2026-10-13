@@ -1,0 +1,23 @@
+{
+  "image_file": "op7RwwriE3p6_1_messy.jpg",
+  "image_size": {
+    "width": 970,
+    "height": 317
+  },
+  "annotations": [
+    {
+      "id": 4071,
+      "image_id": 207,
+      "category_id": 1,
+      "bbox": [
+        413,
+        104,
+        121.25,
+        131.88
+      ],
+      "area": 15990.449999999999,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

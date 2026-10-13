@@ -1,0 +1,51 @@
+{
+  "image_file": "u58cdSnwQBap_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 59441,
+      "image_id": 6364,
+      "category_id": 1,
+      "bbox": [
+        151.7037,
+        1168.3467,
+        147.9111,
+        280.7066
+      ],
+      "area": 41519.62198326,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59442,
+      "image_id": 6364,
+      "category_id": 1,
+      "bbox": [
+        864.7111,
+        542.4467,
+        219.9704,
+        201.0466
+      ],
+      "area": 44224.30102064,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 59443,
+      "image_id": 6364,
+      "category_id": 1,
+      "bbox": [
+        1044.8593,
+        881.95,
+        138.4296,
+        161.2167
+      ],
+      "area": 22317.16329432,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

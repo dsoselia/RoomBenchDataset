@@ -1,0 +1,121 @@
+{
+  "image_file": "plykoVE3ZpOD_0_messy.jpg",
+  "image_size": {
+    "width": 1080,
+    "height": 1440
+  },
+  "annotations": [
+    {
+      "id": 20146,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        62.4,
+        1129.6,
+        81.6,
+        212.8
+      ],
+      "area": 17364.48,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20147,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        235.2,
+        1169.6,
+        336.0,
+        270.4
+      ],
+      "area": 90854.4,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20148,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        539.2,
+        1184.0,
+        113.6,
+        116.8
+      ],
+      "area": 13268.48,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20149,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        788.8,
+        1179.2,
+        60.8,
+        80.0
+      ],
+      "area": 4864.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20150,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        697.6,
+        1142.4,
+        382.4,
+        297.6
+      ],
+      "area": 113802.24,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61401,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        129.6,
+        1113.6,
+        144.0,
+        200.0
+      ],
+      "area": 28800.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61402,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        614.4,
+        1132.8,
+        148.8,
+        145.6
+      ],
+      "area": 21665.28,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61403,
+      "image_id": 1122,
+      "category_id": 1,
+      "bbox": [
+        840.0,
+        1180.8,
+        64.0,
+        78.4
+      ],
+      "area": 5017.6,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

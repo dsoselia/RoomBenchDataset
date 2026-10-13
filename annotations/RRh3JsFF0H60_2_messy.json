@@ -1,0 +1,51 @@
+{
+  "image_file": "RRh3JsFF0H60_2_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 28078,
+      "image_id": 1609,
+      "category_id": 1,
+      "bbox": [
+        314.785185,
+        32.243333,
+        303.407408,
+        130.87
+      ],
+      "area": 39706.927485,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 28079,
+      "image_id": 1609,
+      "category_id": 1,
+      "bbox": [
+        477.866667,
+        897.123333,
+        238.933333,
+        159.32
+      ],
+      "area": 38066.858614,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 61870,
+      "image_id": 1609,
+      "category_id": 1,
+      "bbox": [
+        999.348148,
+        728.32,
+        73.955556,
+        91.04
+      ],
+      "area": 6732.913818,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

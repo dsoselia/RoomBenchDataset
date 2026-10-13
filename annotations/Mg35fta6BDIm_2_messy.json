@@ -1,0 +1,121 @@
+{
+  "image_file": "Mg35fta6BDIm_2_messy.jpg",
+  "image_size": {
+    "width": 1029,
+    "height": 340
+  },
+  "annotations": [
+    {
+      "id": 9098,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        513,
+        44,
+        187.86,
+        195.71
+      ],
+      "area": 36766.0806,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9099,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        717,
+        112,
+        207.14,
+        227.57
+      ],
+      "area": 47138.849799999996,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9100,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        26,
+        44,
+        95.71,
+        84.29
+      ],
+      "area": 8067.3959,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9101,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        70,
+        24,
+        165.71,
+        80
+      ],
+      "area": 13256.800000000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9102,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        160,
+        38,
+        101.43,
+        96.43
+      ],
+      "area": 9780.894900000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9103,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        147,
+        167,
+        49.29,
+        75
+      ],
+      "area": 3696.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9104,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        91,
+        207,
+        57.86,
+        66.43
+      ],
+      "area": 3843.6398000000004,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9105,
+      "image_id": 489,
+      "category_id": 1,
+      "bbox": [
+        139,
+        118,
+        104.29,
+        63.57
+      ],
+      "area": 6629.715300000001,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

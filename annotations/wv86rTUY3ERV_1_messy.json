@@ -1,0 +1,51 @@
+{
+  "image_file": "wv86rTUY3ERV_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 57835,
+      "image_id": 6110,
+      "category_id": 1,
+      "bbox": [
+        190.5778,
+        888.8889,
+        157.8666,
+        186.3111
+      ],
+      "area": 29412.29989926,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57836,
+      "image_id": 6110,
+      "category_id": 1,
+      "bbox": [
+        220.4444,
+        978.4889,
+        177.7778,
+        217.6
+      ],
+      "area": 38684.44928,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57837,
+      "image_id": 6110,
+      "category_id": 1,
+      "bbox": [
+        204.8,
+        1152.0,
+        179.2,
+        128.0
+      ],
+      "area": 22937.6,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

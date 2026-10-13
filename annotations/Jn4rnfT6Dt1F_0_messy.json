@@ -1,0 +1,37 @@
+{
+  "image_file": "Jn4rnfT6Dt1F_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 19136,
+      "image_id": 1054,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        804.0,
+        211.0,
+        141.0
+      ],
+      "area": 29751.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 19138,
+      "image_id": 1054,
+      "category_id": 1,
+      "bbox": [
+        411.0,
+        895.0,
+        55.0,
+        54.0
+      ],
+      "area": 2970.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

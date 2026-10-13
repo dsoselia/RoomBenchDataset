@@ -1,0 +1,79 @@
+{
+  "image_file": "LJR2poo0PRLj_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 57806,
+      "image_id": 6102,
+      "category_id": 1,
+      "bbox": [
+        854.7556,
+        759.4667,
+        105.2444,
+        240.3555
+      ],
+      "area": 25296.0703842,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57807,
+      "image_id": 6102,
+      "category_id": 1,
+      "bbox": [
+        884.6222,
+        1001.2444,
+        75.3778,
+        146.4889
+      ],
+      "area": 11042.01100642,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57808,
+      "image_id": 6102,
+      "category_id": 1,
+      "bbox": [
+        910.2222,
+        1122.1333,
+        49.7778,
+        54.0445
+      ],
+      "area": 2690.2163121,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57809,
+      "image_id": 6102,
+      "category_id": 1,
+      "bbox": [
+        770.8444,
+        1115.0222,
+        129.4223,
+        164.9778
+      ],
+      "area": 21351.80632494,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57810,
+      "image_id": 6102,
+      "category_id": 1,
+      "bbox": [
+        396.8,
+        382.5778,
+        31.2889,
+        36.9778
+      ],
+      "area": 1156.99468642,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

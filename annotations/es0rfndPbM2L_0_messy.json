@@ -1,0 +1,37 @@
+{
+  "image_file": "es0rfndPbM2L_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 40305,
+      "image_id": 3462,
+      "category_id": 1,
+      "bbox": [
+        917.3333,
+        307.3518,
+        334.2223,
+        313.0435
+      ],
+      "area": 104626.11857005,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 40306,
+      "image_id": 3462,
+      "category_id": 1,
+      "bbox": [
+        294.4,
+        334.3874,
+        123.7333,
+        119.5256
+      ],
+      "area": 14789.29692248,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "image_file": "goms1t6Mo51r_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 47526,
+      "image_id": 4516,
+      "category_id": 1,
+      "bbox": [
+        536.1778,
+        377.0751,
+        126.5778,
+        119.5257
+      ],
+      "area": 15129.30014946,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47527,
+      "image_id": 4516,
+      "category_id": 1,
+      "bbox": [
+        662.7556,
+        405.5336,
+        132.2666,
+        56.917
+      ],
+      "area": 7528.2180722,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47528,
+      "image_id": 4516,
+      "category_id": 1,
+      "bbox": [
+        705.4222,
+        384.1897,
+        81.0667,
+        61.1858
+      ],
+      "area": 4960.13089286,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

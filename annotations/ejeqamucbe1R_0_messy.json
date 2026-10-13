@@ -1,0 +1,107 @@
+{
+  "image_file": "ejeqamucbe1R_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 54312,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        82.5296,
+        994.1333,
+        334.3874,
+        285.8667
+      ],
+      "area": 95590.22255958,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54313,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        381.3439,
+        1014.0444,
+        250.4348,
+        265.9556
+      ],
+      "area": 66604.53749488,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54314,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        29.8814,
+        814.9333,
+        267.5099,
+        261.6889
+      ],
+      "area": 70004.37147011,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54315,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        389.8814,
+        787.9111,
+        54.0712,
+        34.1333
+      ],
+      "area": 1845.62849096,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54316,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        421.1858,
+        804.9778,
+        101.0276,
+        48.3555
+      ],
+      "area": 4885.2401118,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54317,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        478.1028,
+        844.8,
+        55.494,
+        68.2667
+      ],
+      "area": 3788.3922498,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 54318,
+      "image_id": 5536,
+      "category_id": 1,
+      "bbox": [
+        416.917,
+        739.5556,
+        116.6798,
+        76.8
+      ],
+      "area": 8961.00864,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

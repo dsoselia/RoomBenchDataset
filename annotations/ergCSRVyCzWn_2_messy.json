@@ -1,0 +1,23 @@
+{
+  "image_file": "ergCSRVyCzWn_2_messy.jpg",
+  "image_size": {
+    "width": 1037,
+    "height": 683
+  },
+  "annotations": [
+    {
+      "id": 5200,
+      "image_id": 276,
+      "category_id": 1,
+      "bbox": [
+        122,
+        206,
+        186.75,
+        458.75
+      ],
+      "area": 85671.5625,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

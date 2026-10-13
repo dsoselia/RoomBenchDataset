@@ -1,0 +1,23 @@
+{
+  "image_file": "yZMwKAhaFqmW_0_messy.jpg",
+  "image_size": {
+    "width": 984,
+    "height": 645
+  },
+  "annotations": [
+    {
+      "id": 8970,
+      "image_id": 481,
+      "category_id": 1,
+      "bbox": [
+        235,
+        270,
+        425,
+        243.75
+      ],
+      "area": 103593.75,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

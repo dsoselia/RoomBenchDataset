@@ -1,0 +1,37 @@
+{
+  "image_file": "LypXMdUutgN5_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 15535,
+      "image_id": 838,
+      "category_id": 1,
+      "bbox": [
+        1145.6,
+        332.8,
+        103.68,
+        87.04
+      ],
+      "area": 9024.3072,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15537,
+      "image_id": 838,
+      "category_id": 1,
+      "bbox": [
+        642.56,
+        285.44,
+        106.24,
+        92.16
+      ],
+      "area": 9791.0784,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

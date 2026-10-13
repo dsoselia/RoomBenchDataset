@@ -1,0 +1,65 @@
+{
+  "image_file": "SaM7rf9UZina_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 15768,
+      "image_id": 855,
+      "category_id": 1,
+      "bbox": [
+        760.32,
+        306.927176,
+        518.4,
+        285.186501
+      ],
+      "area": 147840.682118,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15769,
+      "image_id": 855,
+      "category_id": 1,
+      "bbox": [
+        584.96,
+        487.246892,
+        230.4,
+        122.77087
+      ],
+      "area": 28286.408448,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15771,
+      "image_id": 855,
+      "category_id": 1,
+      "bbox": [
+        256.0,
+        471.900533,
+        107.52,
+        34.529307
+      ],
+      "area": 3712.591089,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 62266,
+      "image_id": 855,
+      "category_id": 1,
+      "bbox": [
+        427.52,
+        482.989324,
+        47.36,
+        99.928825
+      ],
+      "area": 4732.629152,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

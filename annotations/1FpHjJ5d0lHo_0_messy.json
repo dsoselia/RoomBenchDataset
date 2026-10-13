@@ -1,0 +1,37 @@
+{
+  "image_file": "1FpHjJ5d0lHo_0_messy.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 3024
+  },
+  "annotations": [
+    {
+      "id": 1450,
+      "image_id": 73,
+      "category_id": 1,
+      "bbox": [
+        1710,
+        2195,
+        225,
+        137.5
+      ],
+      "area": 30937.5,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1451,
+      "image_id": 73,
+      "category_id": 1,
+      "bbox": [
+        2200,
+        1730,
+        1357.5,
+        550
+      ],
+      "area": 746625,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

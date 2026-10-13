@@ -1,0 +1,23 @@
+{
+  "image_file": "RX0HwYEjxhnc_5_messy.jpg",
+  "image_size": {
+    "width": 500,
+    "height": 667
+  },
+  "annotations": [
+    {
+      "id": 55268,
+      "image_id": 5696,
+      "category_id": 1,
+      "bbox": [
+        152.0,
+        548.0,
+        32.0,
+        24.0
+      ],
+      "area": 768.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "image_file": "DYTEdUwdURIL_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 31546,
+      "image_id": 2130,
+      "category_id": 1,
+      "bbox": [
+        524.8,
+        615.8222,
+        484.9778,
+        182.0445
+      ],
+      "area": 88287.5411121,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31547,
+      "image_id": 2130,
+      "category_id": 1,
+      "bbox": [
+        991.2889,
+        568.8889,
+        261.6889,
+        143.6444
+      ],
+      "area": 37590.14502716,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31548,
+      "image_id": 2130,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        723.9111,
+        250.3111,
+        216.1778
+      ],
+      "area": 54111.70291358,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 31549,
+      "image_id": 2130,
+      "category_id": 1,
+      "bbox": [
+        204.8,
+        709.6889,
+        194.8444,
+        250.3111
+      ],
+      "area": 48771.71609284,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

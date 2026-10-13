@@ -1,0 +1,79 @@
+{
+  "image_file": "IVGSDmL4G71u_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 48666,
+      "image_id": 4694,
+      "category_id": 1,
+      "bbox": [
+        75.3778,
+        413.8667,
+        110.9333,
+        81.0666
+      ],
+      "area": 8992.98545778,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48667,
+      "image_id": 4694,
+      "category_id": 1,
+      "bbox": [
+        884.6222,
+        779.3778,
+        174.9334,
+        130.8444
+      ],
+      "area": 22889.05576296,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48668,
+      "image_id": 4694,
+      "category_id": 1,
+      "bbox": [
+        931.5556,
+        816.3556,
+        197.6888,
+        143.6444
+      ],
+      "area": 28396.88906272,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48669,
+      "image_id": 4694,
+      "category_id": 1,
+      "bbox": [
+        1065.2444,
+        742.4,
+        214.7556,
+        217.6
+      ],
+      "area": 46730.81856,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 48670,
+      "image_id": 4694,
+      "category_id": 1,
+      "bbox": [
+        1075.2,
+        721.0667,
+        64.0,
+        59.7333
+      ],
+      "area": 3822.9312,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

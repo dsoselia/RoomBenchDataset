@@ -1,0 +1,37 @@
+{
+  "image_file": "ie66gjIughn1_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 53870,
+      "image_id": 5466,
+      "category_id": 1,
+      "bbox": [
+        857.6,
+        772.2667,
+        79.6444,
+        187.7333
+      ],
+      "area": 14951.90603852,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 53871,
+      "image_id": 5466,
+      "category_id": 1,
+      "bbox": [
+        992.7111,
+        817.7778,
+        109.5111,
+        142.2222
+      ],
+      "area": 15574.90956642,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

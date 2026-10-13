@@ -1,0 +1,23 @@
+{
+  "image_file": "z8On62CA0je8_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 48168,
+      "image_id": 4604,
+      "category_id": 1,
+      "bbox": [
+        762.3111,
+        1261.2833,
+        146.0148,
+        185.8734
+      ],
+      "area": 27140.26732632,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

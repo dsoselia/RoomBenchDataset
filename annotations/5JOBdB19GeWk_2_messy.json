@@ -1,0 +1,65 @@
+{
+  "image_file": "5JOBdB19GeWk_2_messy.jpg",
+  "image_size": {
+    "width": 2896,
+    "height": 480
+  },
+  "annotations": [
+    {
+      "id": 7788,
+      "image_id": 420,
+      "category_id": 1,
+      "bbox": [
+        596,
+        143,
+        139,
+        187
+      ],
+      "area": 25993,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7789,
+      "image_id": 420,
+      "category_id": 1,
+      "bbox": [
+        1052,
+        137,
+        128,
+        121
+      ],
+      "area": 15488,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7790,
+      "image_id": 420,
+      "category_id": 1,
+      "bbox": [
+        914,
+        273,
+        85,
+        128
+      ],
+      "area": 10880,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7791,
+      "image_id": 420,
+      "category_id": 1,
+      "bbox": [
+        1900,
+        401,
+        150,
+        79
+      ],
+      "area": 11850,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

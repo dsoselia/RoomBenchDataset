@@ -1,0 +1,65 @@
+{
+  "image_file": "LycKiaWht4kM_0_messy.jpg",
+  "image_size": {
+    "width": 2700,
+    "height": 1639
+  },
+  "annotations": [
+    {
+      "id": 7244,
+      "image_id": 392,
+      "category_id": 1,
+      "bbox": [
+        2,
+        54,
+        2698,
+        1585
+      ],
+      "area": 4276330,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7245,
+      "image_id": 392,
+      "category_id": 1,
+      "bbox": [
+        1998,
+        642,
+        702,
+        856
+      ],
+      "area": 600912,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7246,
+      "image_id": 392,
+      "category_id": 1,
+      "bbox": [
+        1468,
+        1186,
+        1008,
+        453
+      ],
+      "area": 456624,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7247,
+      "image_id": 392,
+      "category_id": 1,
+      "bbox": [
+        110,
+        44,
+        2425,
+        1451
+      ],
+      "area": 3518675,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

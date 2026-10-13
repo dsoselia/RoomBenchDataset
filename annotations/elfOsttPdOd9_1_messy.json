@@ -1,0 +1,79 @@
+{
+  "image_file": "elfOsttPdOd9_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 47908,
+      "image_id": 4572,
+      "category_id": 1,
+      "bbox": [
+        27.0222,
+        203.3778,
+        450.8445,
+        257.4222
+      ],
+      "area": 116057.3830479,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47909,
+      "image_id": 4572,
+      "category_id": 1,
+      "bbox": [
+        22.7556,
+        445.1556,
+        512.0,
+        159.2888
+      ],
+      "area": 81555.8656,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47910,
+      "image_id": 4572,
+      "category_id": 1,
+      "bbox": [
+        280.1778,
+        152.1778,
+        381.1555,
+        339.9111
+      ],
+      "area": 129558.98527605,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47911,
+      "image_id": 4572,
+      "category_id": 1,
+      "bbox": [
+        507.7333,
+        125.1556,
+        136.5334,
+        237.5111
+      ],
+      "area": 32428.19802074,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 47912,
+      "image_id": 4572,
+      "category_id": 1,
+      "bbox": [
+        18.4889,
+        65.4222,
+        328.5333,
+        254.5778
+      ],
+      "area": 83637.28474074,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

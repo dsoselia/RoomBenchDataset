@@ -1,0 +1,37 @@
+{
+  "image_file": "LbmoqDdQci95_0_messy.jpg",
+  "image_size": {
+    "width": 3000,
+    "height": 4000
+  },
+  "annotations": [
+    {
+      "id": 641,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        1545,
+        3050,
+        517.5,
+        470
+      ],
+      "area": 243225,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 642,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        945,
+        2625,
+        287.5,
+        257.5
+      ],
+      "area": 74031.25,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

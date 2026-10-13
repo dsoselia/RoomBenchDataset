@@ -1,0 +1,23 @@
+{
+  "image_file": "K7XFhNDJPVMM_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 55583,
+      "image_id": 5754,
+      "category_id": 1,
+      "bbox": [
+        898.8444,
+        816.3556,
+        207.6445,
+        143.6444
+      ],
+      "area": 29826.9696158,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

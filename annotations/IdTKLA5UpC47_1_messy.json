@@ -1,0 +1,23 @@
+{
+  "image_file": "IdTKLA5UpC47_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 50253,
+      "image_id": 4922,
+      "category_id": 1,
+      "bbox": [
+        457.9556,
+        766.5778,
+        69.6888,
+        72.5333
+      ],
+      "area": 5054.75863704,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

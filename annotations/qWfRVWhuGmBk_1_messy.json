@@ -1,0 +1,23 @@
+{
+  "image_file": "qWfRVWhuGmBk_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 1707
+  },
+  "annotations": [
+    {
+      "id": 51632,
+      "image_id": 5138,
+      "category_id": 1,
+      "bbox": [
+        13.2741,
+        92.9367,
+        64.474,
+        178.2866
+      ],
+      "area": 11494.8502484,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

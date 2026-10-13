@@ -1,0 +1,37 @@
+{
+  "image_file": "AdzHydMzcOGH_2_messy.jpg",
+  "image_size": {
+    "width": 640,
+    "height": 478
+  },
+  "annotations": [
+    {
+      "id": 37001,
+      "image_id": 2918,
+      "category_id": 1,
+      "bbox": [
+        344.0,
+        159.0,
+        144.0,
+        117.0
+      ],
+      "area": 16848.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 37002,
+      "image_id": 2918,
+      "category_id": 1,
+      "bbox": [
+        471.0,
+        203.0,
+        66.0,
+        51.0
+      ],
+      "area": 3366.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

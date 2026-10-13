@@ -1,0 +1,107 @@
+{
+  "image_file": "SK4cd40EYEu2_1_messy.jpg",
+  "image_size": {
+    "width": 956,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 36701,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        523.5238,
+        750.9333,
+        165.0238,
+        211.9111
+      ],
+      "area": 34970.37498418,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36702,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        633.0655,
+        657.0667,
+        214.8155,
+        128.0
+      ],
+      "area": 27496.384,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36703,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        634.4881,
+        448.0,
+        116.6548,
+        36.9778
+      ],
+      "area": 4313.63786344,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36704,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        751.1429,
+        462.2222,
+        64.0178,
+        25.6
+      ],
+      "area": 1638.85568,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36705,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        478.0,
+        604.4444,
+        45.5238,
+        42.6667
+      ],
+      "area": 1942.35031746,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36706,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        443.8571,
+        625.7778,
+        61.1727,
+        36.9778
+      ],
+      "area": 2262.03186606,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 36707,
+      "image_id": 2866,
+      "category_id": 1,
+      "bbox": [
+        537.75,
+        718.2222,
+        95.3155,
+        41.2445
+      ],
+      "area": 3931.24013975,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

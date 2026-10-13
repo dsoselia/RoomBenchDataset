@@ -1,0 +1,37 @@
+{
+  "image_file": "PbJlA6L0sFok_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 20281,
+      "image_id": 1131,
+      "category_id": 1,
+      "bbox": [
+        267.377778,
+        409.6,
+        287.288889,
+        338.488889
+      ],
+      "area": 97244.09686,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 20283,
+      "image_id": 1131,
+      "category_id": 1,
+      "bbox": [
+        1.422222,
+        0.0,
+        201.955556,
+        402.488889
+      ],
+      "area": 81284.867362,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

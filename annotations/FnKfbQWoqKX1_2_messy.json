@@ -1,0 +1,23 @@
+{
+  "image_file": "FnKfbQWoqKX1_2_messy.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 1008
+  },
+  "annotations": [
+    {
+      "id": 7076,
+      "image_id": 382,
+      "category_id": 1,
+      "bbox": [
+        745,
+        904,
+        420,
+        104
+      ],
+      "area": 43680,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

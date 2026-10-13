@@ -1,0 +1,79 @@
+{
+  "image_file": "oygggSvVLCu8_1_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 29146,
+      "image_id": 1804,
+      "category_id": 1,
+      "bbox": [
+        283.0222,
+        466.4889,
+        119.4667,
+        98.1333
+      ],
+      "area": 11723.66151111,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 29147,
+      "image_id": 1804,
+      "category_id": 1,
+      "bbox": [
+        524.8,
+        480.7111,
+        72.5333,
+        72.5333
+      ],
+      "area": 5261.07960889,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 29148,
+      "image_id": 1804,
+      "category_id": 1,
+      "bbox": [
+        571.7333,
+        541.8667,
+        137.9556,
+        79.6444
+      ],
+      "area": 10987.39098864,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 29149,
+      "image_id": 1804,
+      "category_id": 1,
+      "bbox": [
+        716.8,
+        563.2,
+        203.3778,
+        92.4444
+      ],
+      "area": 18801.13869432,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 29150,
+      "image_id": 1804,
+      "category_id": 1,
+      "bbox": [
+        964.2667,
+        682.6667,
+        109.5111,
+        48.3555
+      ],
+      "area": 5295.46399605,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

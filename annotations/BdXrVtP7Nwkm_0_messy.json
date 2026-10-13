@@ -1,0 +1,37 @@
+{
+  "image_file": "BdXrVtP7Nwkm_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 46173,
+      "image_id": 4314,
+      "category_id": 1,
+      "bbox": [
+        172.1739,
+        701.1556,
+        116.6799,
+        96.7111
+      ],
+      "area": 11284.24147689,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 46174,
+      "image_id": 4314,
+      "category_id": 1,
+      "bbox": [
+        500.8696,
+        1144.8889,
+        172.1739,
+        135.1111
+      ],
+      "area": 23262.60502029,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

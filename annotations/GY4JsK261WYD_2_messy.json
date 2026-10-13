@@ -1,0 +1,23 @@
+{
+  "image_file": "GY4JsK261WYD_2_messy.jpg",
+  "image_size": {
+    "width": 3024,
+    "height": 1344
+  },
+  "annotations": [
+    {
+      "id": 11903,
+      "image_id": 652,
+      "category_id": 1,
+      "bbox": [
+        545,
+        317,
+        767.5,
+        1010
+      ],
+      "area": 775175.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

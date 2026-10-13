@@ -1,0 +1,51 @@
+{
+  "image_file": "32BbQfBMtgLS_0_messy.jpg",
+  "image_size": {
+    "width": 1136,
+    "height": 640
+  },
+  "annotations": [
+    {
+      "id": 42649,
+      "image_id": 3788,
+      "category_id": 1,
+      "bbox": [
+        585.6711,
+        239.8422,
+        329.44,
+        118.6588
+      ],
+      "area": 39090.955072,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42650,
+      "image_id": 3788,
+      "category_id": 1,
+      "bbox": [
+        477.12,
+        358.501,
+        147.68,
+        137.5937
+      ],
+      "area": 20319.837616,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42651,
+      "image_id": 3788,
+      "category_id": 1,
+      "bbox": [
+        628.5867,
+        167.8895,
+        246.1333,
+        75.7397
+      ],
+      "area": 18642.06230201,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

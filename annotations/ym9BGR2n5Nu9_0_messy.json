@@ -1,0 +1,23 @@
+{
+  "image_file": "ym9BGR2n5Nu9_0_messy.jpg",
+  "image_size": {
+    "width": 921,
+    "height": 1440
+  },
+  "annotations": [
+    {
+      "id": 12602,
+      "image_id": 693,
+      "category_id": 1,
+      "bbox": [
+        488,
+        296,
+        267,
+        291
+      ],
+      "area": 77697,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

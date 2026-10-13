@@ -1,0 +1,23 @@
+{
+  "image_file": "lSbh4NnBd7NK_2_messy.jpg",
+  "image_size": {
+    "width": 4032,
+    "height": 606
+  },
+  "annotations": [
+    {
+      "id": 12712,
+      "image_id": 701,
+      "category_id": 1,
+      "bbox": [
+        2930,
+        328,
+        220,
+        278
+      ],
+      "area": 61160,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

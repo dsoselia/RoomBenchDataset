@@ -1,0 +1,37 @@
+{
+  "image_file": "lOUzqomW593K_1_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 29240,
+      "image_id": 1822,
+      "category_id": 1,
+      "bbox": [
+        396.996,
+        814.9333,
+        105.2965,
+        96.7111
+      ],
+      "area": 10183.34034115,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 29241,
+      "image_id": 1822,
+      "category_id": 1,
+      "bbox": [
+        139.4466,
+        793.6,
+        163.6364,
+        103.8222
+      ],
+      "area": 16989.09104808,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

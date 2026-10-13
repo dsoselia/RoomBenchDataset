@@ -1,0 +1,79 @@
+{
+  "image_file": "PSWock1T6Igs_0_messy.jpg",
+  "image_size": {
+    "width": 720,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 57824,
+      "image_id": 6106,
+      "category_id": 1,
+      "bbox": [
+        99.6047,
+        524.8,
+        314.4664,
+        129.4222
+      ],
+      "area": 40698.93331408,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57825,
+      "image_id": 6106,
+      "category_id": 1,
+      "bbox": [
+        105.2964,
+        611.5556,
+        318.7352,
+        143.6444
+      ],
+      "area": 45784.52656288,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57826,
+      "image_id": 6106,
+      "category_id": 1,
+      "bbox": [
+        72.5692,
+        712.5333,
+        320.1581,
+        106.6667
+      ],
+      "area": 34150.20800527,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57827,
+      "image_id": 6106,
+      "category_id": 1,
+      "bbox": [
+        270.3557,
+        752.3556,
+        163.6364,
+        143.6444
+      ],
+      "area": 23505.45249616,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57828,
+      "image_id": 6106,
+      "category_id": 1,
+      "bbox": [
+        303.083,
+        1203.2,
+        83.9526,
+        76.8
+      ],
+      "area": 6447.55968,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

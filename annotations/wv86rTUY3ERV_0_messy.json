@@ -1,0 +1,93 @@
+{
+  "image_file": "wv86rTUY3ERV_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 57829,
+      "image_id": 6108,
+      "category_id": 1,
+      "bbox": [
+        544.7111,
+        384.0,
+        203.3778,
+        140.8
+      ],
+      "area": 28635.59424,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57830,
+      "image_id": 6108,
+      "category_id": 1,
+      "bbox": [
+        701.1556,
+        406.7556,
+        103.8222,
+        133.6888
+      ],
+      "area": 13879.86533136,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57831,
+      "image_id": 6108,
+      "category_id": 1,
+      "bbox": [
+        486.4,
+        412.4444,
+        81.0667,
+        102.4
+      ],
+      "area": 8301.23008,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57832,
+      "image_id": 6108,
+      "category_id": 1,
+      "bbox": [
+        793.6,
+        645.6889,
+        116.6222,
+        106.6667
+      ],
+      "area": 12439.70522074,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57833,
+      "image_id": 6108,
+      "category_id": 1,
+      "bbox": [
+        878.9333,
+        634.3111,
+        118.0445,
+        71.1111
+      ],
+      "area": 8394.27424395,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 57834,
+      "image_id": 6108,
+      "category_id": 1,
+      "bbox": [
+        1095.1111,
+        551.8222,
+        184.8889,
+        187.7334
+      ],
+      "area": 34709.82181926,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

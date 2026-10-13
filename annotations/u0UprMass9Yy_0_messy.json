@@ -1,0 +1,51 @@
+{
+  "image_file": "u0UprMass9Yy_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 45828,
+      "image_id": 4250,
+      "category_id": 1,
+      "bbox": [
+        571.7333,
+        384.0,
+        49.7778,
+        39.8222
+      ],
+      "area": 1982.26150716,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45829,
+      "image_id": 4250,
+      "category_id": 1,
+      "bbox": [
+        775.1111,
+        366.9333,
+        54.0445,
+        19.9111
+      ],
+      "area": 1076.08544395,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45830,
+      "image_id": 4250,
+      "category_id": 1,
+      "bbox": [
+        958.5778,
+        368.3556,
+        51.2,
+        25.6
+      ],
+      "area": 1310.72,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

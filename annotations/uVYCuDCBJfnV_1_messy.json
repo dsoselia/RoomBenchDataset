@@ -1,0 +1,37 @@
+{
+  "image_file": "uVYCuDCBJfnV_1_messy.jpg",
+  "image_size": {
+    "width": 960,
+    "height": 1280
+  },
+  "annotations": [
+    {
+      "id": 28390,
+      "image_id": 1662,
+      "category_id": 1,
+      "bbox": [
+        748.0889,
+        1122.1333,
+        75.3778,
+        91.0223
+      ],
+      "area": 6861.06072494,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 28391,
+      "image_id": 1662,
+      "category_id": 1,
+      "bbox": [
+        742.4,
+        1092.2667,
+        136.5333,
+        31.2889
+      ],
+      "area": 4271.97677037,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

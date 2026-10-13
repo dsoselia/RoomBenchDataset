@@ -1,0 +1,23 @@
+{
+  "image_file": "04rlG1nyLhuP_1_messy.jpg",
+  "image_size": {
+    "width": 3024,
+    "height": 1344
+  },
+  "annotations": [
+    {
+      "id": 12120,
+      "image_id": 667,
+      "category_id": 1,
+      "bbox": [
+        1355,
+        591,
+        572.5,
+        335
+      ],
+      "area": 191787.5,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

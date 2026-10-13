@@ -1,0 +1,79 @@
+{
+  "image_file": "bipavPYJXfwh_0_messy.jpg",
+  "image_size": {
+    "width": 2048,
+    "height": 1023
+  },
+  "annotations": [
+    {
+      "id": 12954,
+      "image_id": 714,
+      "category_id": 1,
+      "bbox": [
+        861,
+        263,
+        253.57,
+        268.57
+      ],
+      "area": 68101.295,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12955,
+      "image_id": 714,
+      "category_id": 1,
+      "bbox": [
+        1629,
+        796,
+        310.71,
+        227.29
+      ],
+      "area": 70621.276,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12956,
+      "image_id": 714,
+      "category_id": 1,
+      "bbox": [
+        424,
+        464,
+        313.57,
+        210
+      ],
+      "area": 65849.7,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12957,
+      "image_id": 714,
+      "category_id": 1,
+      "bbox": [
+        584,
+        511,
+        305.71,
+        111.43
+      ],
+      "area": 34065.265,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12958,
+      "image_id": 714,
+      "category_id": 1,
+      "bbox": [
+        559,
+        546,
+        305.71,
+        120
+      ],
+      "area": 36685.2,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

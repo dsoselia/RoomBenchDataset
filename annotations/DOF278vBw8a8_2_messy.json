@@ -1,0 +1,79 @@
+{
+  "image_file": "DOF278vBw8a8_2_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 16061,
+      "image_id": 873,
+      "category_id": 1,
+      "bbox": [
+        57.6,
+        354.56,
+        518.4,
+        145.92
+      ],
+      "area": 75644.928,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16062,
+      "image_id": 873,
+      "category_id": 1,
+      "bbox": [
+        608.0,
+        359.68,
+        405.76,
+        162.56
+      ],
+      "area": 65960.3456,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16063,
+      "image_id": 873,
+      "category_id": 1,
+      "bbox": [
+        729.6,
+        170.24,
+        305.92,
+        229.12
+      ],
+      "area": 70092.3904,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16064,
+      "image_id": 873,
+      "category_id": 1,
+      "bbox": [
+        216.32,
+        200.96,
+        386.56,
+        134.4
+      ],
+      "area": 51953.664,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16065,
+      "image_id": 873,
+      "category_id": 1,
+      "bbox": [
+        207.36,
+        270.08,
+        490.24,
+        80.64
+      ],
+      "area": 39532.9536,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

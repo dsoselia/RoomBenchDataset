@@ -1,0 +1,23 @@
+{
+  "image_file": "83FBc6RBZj6K_1_messy.jpg",
+  "image_size": {
+    "width": 892,
+    "height": 400
+  },
+  "annotations": [
+    {
+      "id": 11358,
+      "image_id": 623,
+      "category_id": 1,
+      "bbox": [
+        115,
+        43,
+        306.67,
+        113.33
+      ],
+      "area": 34754.911100000005,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "image_file": "MyS5Mihc5Ndi_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 960
+  },
+  "annotations": [
+    {
+      "id": 45514,
+      "image_id": 4192,
+      "category_id": 1,
+      "bbox": [
+        224.7111,
+        341.3333,
+        344.1778,
+        537.6
+      ],
+      "area": 185029.98528,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45515,
+      "image_id": 4192,
+      "category_id": 1,
+      "bbox": [
+        493.5111,
+        463.6444,
+        308.6222,
+        405.3334
+      ],
+      "area": 125094.88564148,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45516,
+      "image_id": 4192,
+      "category_id": 1,
+      "bbox": [
+        809.2444,
+        237.5111,
+        345.6,
+        405.3333
+      ],
+      "area": 140083.18848,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45517,
+      "image_id": 4192,
+      "category_id": 1,
+      "bbox": [
+        733.8667,
+        601.6,
+        139.3777,
+        310.0444
+      ],
+      "area": 43213.27536988,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 45518,
+      "image_id": 4192,
+      "category_id": 1,
+      "bbox": [
+        544.7111,
+        760.8889,
+        247.4667,
+        143.6444
+      ],
+      "area": 35547.20564148,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

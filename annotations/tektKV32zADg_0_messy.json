@@ -1,0 +1,79 @@
+{
+  "image_file": "tektKV32zADg_0_messy.jpg",
+  "image_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "annotations": [
+    {
+      "id": 42076,
+      "image_id": 3712,
+      "category_id": 1,
+      "bbox": [
+        760.8889,
+        360.0,
+        69.6889,
+        49.8024
+      ],
+      "area": 3470.67447336,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42077,
+      "image_id": 3712,
+      "category_id": 1,
+      "bbox": [
+        952.8889,
+        485.2174,
+        220.4444,
+        135.1779
+      ],
+      "area": 29799.21105876,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42078,
+      "image_id": 3712,
+      "category_id": 1,
+      "bbox": [
+        995.5556,
+        461.0277,
+        76.8,
+        109.5652
+      ],
+      "area": 8414.60736,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42079,
+      "image_id": 3712,
+      "category_id": 1,
+      "bbox": [
+        1005.5111,
+        516.5217,
+        118.0445,
+        66.8775
+      ],
+      "area": 7894.52104875,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 42080,
+      "image_id": 3712,
+      "category_id": 1,
+      "bbox": [
+        992.7111,
+        567.747,
+        231.8222,
+        29.8815
+      ],
+      "area": 6927.1950693,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

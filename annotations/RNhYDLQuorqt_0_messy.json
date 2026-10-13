@@ -1,0 +1,23 @@
+{
+  "image_file": "RNhYDLQuorqt_0_messy.jpg",
+  "image_size": {
+    "width": 2048,
+    "height": 341
+  },
+  "annotations": [
+    {
+      "id": 12294,
+      "image_id": 679,
+      "category_id": 1,
+      "bbox": [
+        1089,
+        0,
+        221.43,
+        132.86
+      ],
+      "area": 29419.189800000004,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

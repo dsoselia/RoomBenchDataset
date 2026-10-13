@@ -1,0 +1,23 @@
+{
+  "image_file": "Cpa8QkhzCIKJ_1_messy.jpg",
+  "image_size": {
+    "width": 3024,
+    "height": 4032
+  },
+  "annotations": [
+    {
+      "id": 12249,
+      "image_id": 673,
+      "category_id": 1,
+      "bbox": [
+        525,
+        520,
+        2152.5,
+        3227.5
+      ],
+      "area": 6947193.75,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}
